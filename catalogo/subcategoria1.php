@@ -44,8 +44,8 @@
                 <ul>
                   <li class="drop-down"><a>Pinturas</a>
                     <ul>
-                      <li><a href="http://localhost:8080/ferreteris/FerreteriaBolivarPHP/catalogo/subcategoria1.php">Subcategoría 1</a></li>
-                      <li><a href="http://localhost:8080/ferreteris/FerreteriaBolivarPHP/catalogo/subcategoria2.php">Subcategoría 2</a></li>
+                      <li><a href="../catalogo/subcategoria1.php">Subcategoría 1</a></li>
+                      <li><a href="../catalogo/subcategoria2.php">Subcategoría 2</a></li>
                       <li><a href="#">Subcategoría 3</a></li>
                       <li><a href="#">Subcategoría 4</a></li>
                       <li><a href="#">Subcategoría 5</a></li>
