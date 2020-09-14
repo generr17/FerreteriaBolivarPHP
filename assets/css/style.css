@@ -1603,13 +1603,13 @@ section {
 }
 
 .card-body-a {
-  z-index: 2;
+  z-index: 1;
   transition: all .5s ease-in;
   padding: 0rem 1rem 2rem 1rem;
 }
 
 .card-body-a .price-box {
-  padding-bottom: .5rem;
+  padding-bottom: .2rem;
 }
 
 .price-a {
