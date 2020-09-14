@@ -33,19 +33,19 @@
         <div class="container d-flex align-items-center">
     
           <div class="logo mr-auto">
-            <a href="../index.html"><img src="../assets/img/logo.png" alt="" class="img-fluid"></a>
+            <a href="../index.php"><img src="../assets/img/logo.png" alt="" class="img-fluid"></a>
           </div>
     
           <nav class="nav-menu d-none d-lg-block">
             <ul>
-              <li><a href="../index.html">Inicio</a></li>
-              <li><a href="../conocenos.html">Conócenos</a></li>
+              <li><a href="../index.php">Inicio</a></li>
+              <li><a href="../conocenos.php">Conócenos</a></li>
               <li class="drop-down"><a>Catálogo</a>
                 <ul>
                   <li class="drop-down"><a>Pinturas</a>
                     <ul>
-                      <li><a href="../subcategoria1.html">Subcategoría 1</a></li>
-                      <li><a href="../subcategoria2.html">Subcategoría 2</a></li>
+                      <li><a href="../subcategoria1.php">Subcategoría 1</a></li>
+                      <li><a href="../subcategoria2.php">Subcategoría 2</a></li>
                       <li><a href="#">Subcategoría 3</a></li>
                       <li><a href="#">Subcategoría 4</a></li>
                       <li><a href="#">Subcategoría 5</a></li>
@@ -147,8 +147,8 @@
                   </li>
                 </ul>
             </li>
-              <li><a href="../puntosVenta.html">Puntos de venta</a></li>
-              <li><a href="../contactanos.html">Contáctanos</a></li>
+              <li><a href="../puntosVenta.php">Puntos de venta</a></li>
+              <li><a href="../contactanos.php">Contáctanos</a></li>
     
             </ul>
           </nav><!-- .nav-menu -->
@@ -160,11 +160,17 @@
     
         </div>
       </header><!-- End Header -->
-
+<div class="fondoa">
       <!-- ======= Latest Properties Section ======= -->
+    
       <main id="main">
       <!-- ======= Property Grid ======= -->
+    
     <section class="property-grid grid">
+    <div class="section-title">
+        <h2>Subcategoria 1</h2>
+        <p>Observa nuestros Productos</p>
+      </div>
         <div class="container">
           <div class="row">
             
@@ -258,51 +264,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-md-4">
-              <div class="card-box-a card-shadow">
-                <div class="img-box-a">
-                  <img src="../assets/img/about.jpg" class="img-a img-fluid">
-                </div>
-                <div class="card-overlay">
-                  <div class="card-overlay-a-content">
-                    <div class="card-header-a">
-                      <h2 class="card-title-a">
-                        <a href="#">204 Mount
-                          <br /> Olive Road Two</a>
-                      </h2>
-                    </div>
-                    <div class="card-body-a">
-                      <div class="price-box d-flex">
-                        <span class="price-a">rent | $ 12.000</span>
-                      </div>
-                     
-                    </div>
-                    <div class="card-footer-a">
-                      <ul class="card-info d-flex justify-content-around">
-                        <li>
-                          <h4 class="card-info-title">Area</h4>
-                          <span>340m
-                            <sup>2</sup>
-                          </span>
-                        </li>
-                        <li>
-                          <h4 class="card-info-title">Beds</h4>
-                          <span>2</span>
-                        </li>
-                        <li>
-                          <h4 class="card-info-title">Baths</h4>
-                          <span>4</span>
-                        </li>
-                        <li>
-                          <h4 class="card-info-title">Garages</h4>
-                          <span>1</span>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
+            
             <div class="col-md-4">
               <div class="card-box-a card-shadow">
                 <div class="img-box-a">
@@ -638,6 +600,7 @@
       </section><!-- End Property Grid Single-->
   
     </main><!-- End #main -->
+   </div> 
 
     <!-- ======= Footer ======= -->
     <footer id="footer">
