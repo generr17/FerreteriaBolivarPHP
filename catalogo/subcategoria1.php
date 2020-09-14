@@ -33,7 +33,7 @@
         <div class="container d-flex align-items-center">
     
           <div class="logo mr-auto">
-            <a href="../index.php"><img src="../assets/img/logo.png" alt="" class="img-fluid"></a>
+            <a href="../../index.php"><img src="../assets/img/logo.png" alt="" class="img-fluid"></a>
           </div>
     
           <nav class="nav-menu d-none d-lg-block">
@@ -44,8 +44,8 @@
                 <ul>
                   <li class="drop-down"><a>Pinturas</a>
                     <ul>
-                      <li><a href="../subcategoria1.php">Subcategoría 1</a></li>
-                      <li><a href="../subcategoria2.php">Subcategoría 2</a></li>
+                      <li><a href="http://localhost:8080/ferreteris/FerreteriaBolivarPHP/catalogo/subcategoria1.php">Subcategoría 1</a></li>
+                      <li><a href="http://localhost:8080/ferreteris/FerreteriaBolivarPHP/catalogo/subcategoria2.php">Subcategoría 2</a></li>
                       <li><a href="#">Subcategoría 3</a></li>
                       <li><a href="#">Subcategoría 4</a></li>
                       <li><a href="#">Subcategoría 5</a></li>
@@ -169,7 +169,7 @@
     <section class="property-grid grid">
     <div class="section-title">
         <h2>Subcategoria 1</h2>
-        <p>Observa nuestros Productos</p>
+        <p>Observa nuestros </p>
       </div>
         <div class="container">
           <div class="row">
