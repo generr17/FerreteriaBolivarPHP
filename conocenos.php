@@ -41,34 +41,27 @@
 
         <div class="section-title">
           <h2>Cónocenos</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Aquí tendras una breve historia, y los aspectos mas importantes que nuestra empresa tiene</p>
         </div>
 
         <div class="row">
           <div class="col-lg-4">
-            <img src="assets/img/about.jpg" class="img-fluid" alt="">
+            <img src="assets/img/conocenos.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content">
-            <h3>Illustrator &amp; UI/UX Designer</h3>
+            <h3>Nuestra historia</h3>
             <p class="font-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+              <p align="justify">Ferreterías Bolívar es una gran empresa que se enfoca... aqui va la historia de la empresa</p>
             </p>
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="icofont-rounded-right"></i> <strong>Birthday:</strong> 1 May 1995</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>Website:</strong> www.example.com</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> +123 456 7890</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>City:</strong> City : New York, USA</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Misión:</strong>  <p align="justify">Aqui va la misión de la empresa</p></li>
                 </ul>
               </div>
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="icofont-rounded-right"></i> <strong>Age:</strong> 30</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>Degree:</strong> Master</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>PhEmailone:</strong> email@example.com</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>Freelance:</strong> Available</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Visión:</strong> <p align="justify">Aqui va la visión de la empresa</p></li></li>
                 </ul>
               </div>
             </div>
@@ -88,8 +81,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Skills</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>Habilidades</h2>
+          <p>Contamos con los mejores profesionales que desempeñan diferentes destrezas en la empresa.</p>
         </div>
 
         <div class="row skills-content">
@@ -97,21 +90,21 @@
           <div class="col-lg-6">
 
             <div class="progress">
-              <span class="skill">HTML <i class="val">100%</i></span>
+              <span class="skill">Trabajo en equipo <i class="val">100%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">CSS <i class="val">100%</i></span>
+              <span class="skill">Resolver problemas <i class="val">100%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">JavaScript <i class="val">100%</i></span>
+              <span class="skill">Tomar decisiones <i class="val">100%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
@@ -122,21 +115,21 @@
           <div class="col-lg-6">
 
             <div class="progress">
-              <span class="skill">PHP <i class="val">100%</i></span>
+              <span class="skill">Adaptación al cambio <i class="val">100%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">WordPress/CMS <i class="val">100%</i></span>
+              <span class="skill">Comunicación <i class="val">100%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">Photoshop <i class="val">100%</i></span>
+              <span class="skill">Empatía <i class="val">100%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
@@ -153,31 +146,32 @@
     <section id="counts" class="counts">
       <div class="container">
 
+      
         <div class="text-center title">
-          <h3>What we have achieved so far</h3>
-          <p>Iusto et labore modi qui sapiente xpedita tempora et aut non ipsum consequatur illo.</p>
+          <h3>Nuestros logros</h3>
+          <p>Nuestra empresa cuenta con:</p>
         </div>
 
         <div class="row counters">
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-toggle="counter-up">232</span>
-            <p>Clients</p>
+            <span data-toggle="counter-up">999</span>
+            <p>Clientes</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-toggle="counter-up">521</span>
-            <p>Projects</p>
+            <span data-toggle="counter-up">100</span>
+            <p>Empleados</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-toggle="counter-up">1,600</span>
-            <p>Hours Of Support</p>
+            <span data-toggle="counter-up">200</span>
+            <p>Proveedores</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-toggle="counter-up">15</span>
-            <p>Hard Workers</p>
+            <span data-toggle="counter-up">3</span>
+            <p>Sucursales</p>
           </div>
 
         </div>
