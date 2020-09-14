@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>| Ferreterías Bolívar</title>
+  <title>Conócenos | Ferreterías Bolívar</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
@@ -40,7 +40,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>About</h2>
+          <h2>Cónocenos</h2>
           <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
 

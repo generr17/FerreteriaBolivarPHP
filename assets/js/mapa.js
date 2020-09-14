@@ -26,9 +26,9 @@ map.keyboard.disable();
 
 //Coordenadas y titulos para marcadores de mapa
 var markers = [
-["<b>Matriz:</b> Ferreterías Bolívar <br> <b>Direccion:</b> Av. Los Chasquis 13-28 y Manco Capac <b>Teléfono trabajo:</b> 032846813 <br> <b>Celulares:</b> 0998371958 / 0988228466<br><br><div class=text-center><button onclick=volverMapa() class=btnEnviar style=background-color: #1976CB;color: white;>Volver</button></div>", -1.2545401,-78.6230819],
-["<b>Sucursal 1:</b> Ferretería y pinturas Bolívar <br> <b>Direccion:</b> Av. Jose Peralta a treinta metros del redolder de huachi <br> <b>Celulares:</b> 0995378425 / 0988228466<br><br><div class=text-center><button onclick=volverMapa() class=btnEnviar style=background-color: #1976CB;color: white;>Volver</button></div>", -1.2761776,-78.6312382],
-["<b>Sucursal 2:</b> Ferretería y pinturas Bolívar <br> <b>Direccion  :</b> Av. Los Capulíes y Av Rodrigo Pachano <b>Teléfono trabajo:</b> 032846813 <br> <b>Celular:</b> 0999622158<br><br><div class=text-center><button onclick=volverMapa() class=btnEnviar style=background-color: #1976CB;color: white;>Volver</button></div>", -1.2259354,-78.6001191]
+["<b>Matriz:</b> Ferreterías Bolívar <br> <b>Dirección:</b> Av. Los Chasquis 13-24 y Manco Cápac <b>Teléfono trabajo:</b> 032846813 <br> <b>Celulares:</b> 0998371958 / 0988228466<br><br><div class=text-center><button onclick=volverMapa() class=btnEnviar style=background-color: #1976CB;color: white;>Volver</button></div>", -1.2545401,-78.6230819],
+["<b>Sucursal 1:</b> Ferretería y pinturas Bolívar <br> <b>Dirección:</b> José Peralta y Gonzalo Zandulbide <br> <b>Celulares:</b> 0995378425 / 0988228466<br><br><div class=text-center><button onclick=volverMapa() class=btnEnviar style=background-color: #1976CB;color: white;>Volver</button></div>", -1.2761776,-78.6312382],
+["<b>Sucursal 2:</b> Ferretería y pinturas Bolívar <br> <b>Dirección:</b> Rodrigo Pachano Sector La Victoria <b>Teléfono trabajo:</b> 032846813 <br> <b>Celular:</b> 0999622158<br><br><div class=text-center><button onclick=volverMapa() class=btnEnviar style=background-color: #1976CB;color: white;>Volver</button></div>", -1.2259354,-78.6001191]
 ];
 //------------------------------------------
 //Funcion volver mapa
