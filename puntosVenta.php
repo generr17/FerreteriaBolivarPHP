@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>| Ferreterías Bolívar</title>
+  <title>Puntos de | Ferreterías Bolívar</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
@@ -100,7 +100,6 @@
                 </div>
               </div>
             </div>
-  
         </div>
   
       </div>
