@@ -165,7 +165,9 @@
     
       <main id="main">
       <!-- ======= Property Grid ======= -->
+     
     <section class="property-grid grid">
+    
     <div class="section-title">
         <h2>Unidas</h2>
       </div>
@@ -316,7 +318,7 @@
             </div>
           </div>
         </div>
-        
+       
       </section><!-- End Property Grid Single-->
   
     </main><!-- End #main -->

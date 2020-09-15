@@ -1446,6 +1446,10 @@ section {
     margin-bottom: 2.5rem;
   }
 }
+.row{
+
+ justify-content: center;
+}
 
 @media (min-width: 768px) {
   .grid .card-box-a,
