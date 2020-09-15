@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
   
-    <title>Producto 1</title>
+    <title>Unidas</title>
     <meta content="" name="descriptison">
     <meta content="" name="keywords">
   
@@ -44,11 +44,11 @@
                 <ul>
                   <li class="drop-down"><a>Pinturas</a>
                     <ul>
-                      <li><a href="../catalogo/subcategoria1.php">Subcategoría 1</a></li>
-                      <li><a href="../catalogo/subcategoria2.php">Subcategoría 2</a></li>
-                      <li><a href="#">Subcategoría 3</a></li>
-                      <li><a href="#">Subcategoría 4</a></li>
-                      <li><a href="#">Subcategoría 5</a></li>
+                    <li><a href="../catalogo/condor.php">Cóndor</a></li>
+                      <li><a href="../catalogo/unidas.php">Unidas</a></li>
+                      <li><a href="../catalogo/adheplast.php">Adheplas</a></li>
+                      <li><a href="../catalogo/sika.php">Sika</a></li>
+                      
                     </ul>
                   </li>
                   <li class="drop-down"><a>Pinturas automotrices</a>
@@ -168,8 +168,7 @@
     
     <section class="property-grid grid">
     <div class="section-title">
-        <h2>Subcategoria 1</h2>
-        <p>Observa nuestros productos </p>
+        <h2>Unidas</h2>
       </div>
         <div class="container">
           <div class="row">
@@ -183,8 +182,7 @@
                   <div class="card-overlay-a-content">
                     <div class="card-header-a">
                       <h2 class="card-title-a">
-                        <a href="#">20 Mount
-                          <br /> Olive Road Two</a>
+                        <a href="#">Latex Supremo</a>
                       </h2>
                     </div>
                     <div class="card-body-a">
@@ -217,8 +215,7 @@
                   <div class="card-overlay-a-content">
                     <div class="card-header-a">
                       <h2 class="card-title-a">
-                        <a href="#">204 Mount
-                          <br /> Olive Road Two</a>
+                        <a href="#">Supremo Satín</a>
                       </h2>
                     </div>
                     <div class="card-body-a">
@@ -228,14 +225,10 @@
                      
                     </div>
                     <div class="card-footer-a">
-                      <ul class="card-info d-flex justify-content-around">
-                      <li>
-                          <h4 class="card-info-title">Descripción</h4>
-                          <span>
-                            Producto 1, categoria 1, pintura de ..........
-                          </span>
-                        </li>
-                      </ul>
+                    <div class="descripcion">
+                          Pintura Arquitectónica tipo vinil-acrílica diseñada para la protección 
+                          y decoración de superficies de fibrocement, tanto exterior como interior.<br>
+                    </div> 
                     </div>
                   </div>
                 </div>
@@ -251,8 +244,7 @@
                   <div class="card-overlay-a-content">
                     <div class="card-header-a">
                       <h2 class="card-title-a">
-                        <a href="#">204 Mount
-                          <br /> Olive Road Two</a>
+                        <a href="#">ELASTOCRYL OPTIMA</a>
                       </h2>
                     </div>
                     <div class="card-body-a">
@@ -284,8 +276,7 @@
                   <div class="card-overlay-a-content">
                     <div class="card-header-a">
                       <h2 class="card-title-a">
-                        <a href="#">204 Mount
-                          <br /> Olive Road Two</a>
+                        <a href="#">UNICOLÁTEX PRO</a>
                       </h2>
                     </div>
                     <div class="card-body-a">
@@ -317,133 +308,27 @@
                     <div class="card-overlay-a-content">
                       <div class="card-header-a">
                         <h2 class="card-title-a">
-                          <a href="#">204 Mount
-                            <br /> Olive Road Two</a>
+                          <a href="#">UNITEJA</a>
                         </h2>
                       </div>
                       <div class="card-body-a">
-                        <div class="price-box d-flex">
-                          <span class="price-a">rent | $ 12.000</span>
+                        <div class="price-box d-flex" >
+                        
+                        <span class="price-a"> </span>
                         </div>
                        
                       </div>
                       <div class="card-footer-a">
-                        <ul class="card-info d-flex justify-content-around">
-                        <li>
-                          <h4 class="card-info-title">Descripción</h4>
-                          <span>
-                            Producto 1, categoria 1, pintura de ..........
-                          </span>
-                        </li>
-                        </ul>
+                      <div class="descripcion">
+                       Látex vinil acrílico diseñado especialmente 
+                          para la fabricación de pinturas tanto
+                          de exteriores como para interiores.
+                      </div>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-                
-            <div class="col-md-4">
-              <div class="card-box-a card-shadow">
-                <div class="img-box-a">
-                  <img src="../assets/img/about.jpg" alt="" class="img-a img-fluid">
-                </div>
-                <div class="card-overlay">
-                  <div class="card-overlay-a-content">
-                    <div class="card-header-a">
-                      <h2 class="card-title-a">
-                        <a href="#">204 Mount
-                          <br /> Olive Road Two</a>
-                      </h2>
-                    </div>
-                    <div class="card-body-a">
-                      <div class="price-box d-flex">
-                        <span class="price-a">rent | $ 12.000</span>
-                      </div>
-                      
-                    </div>
-                    <div class="card-footer-a">
-                      <ul class="card-info d-flex justify-content-around">
-                      <li>
-                          <h4 class="card-info-title">Descripción</h4>
-                          <span>
-                            Producto 1, categoria 1, pintura de ..........
-                          </span>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-                
-             
-            <div class="col-md-4">
-              <div class="card-box-a card-shadow">
-                <div class="img-box-a">
-                  <img src="../assets/img/about.jpg" alt="" class="img-a img-fluid">
-                </div>
-                <div class="card-overlay">
-                  <div class="card-overlay-a-content">
-                    <div class="card-header-a">
-                      <h2 class="card-title-a">
-                        <a href="#">214 Mount
-                          <br /> Olive Road Two</a>
-                      </h2>
-                    </div>
-                    <div class="card-body-a">
-                      <div class="price-box d-flex">
-                        <span class="price-a">rent | $ 12.000</span>
-                      </div>
-                      
-                    </div>
-                    <div class="card-footer-a">
-                      <ul class="card-info d-flex justify-content-around">
-                      <li>
-                          <h4 class="card-info-title">Descripción</h4>
-                          <span>
-                            Producto 1, categoria 1, pintura de ..........
-                          </span>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-                
-            <div class="col-md-4">
-              <div class="card-box-a card-shadow">
-                <div class="img-box-a">
-                  <img src="../assets/img/about.jpg" alt="" class="img-a img-fluid">
-                </div>
-                <div class="card-overlay">
-                  <div class="card-overlay-a-content">
-                    <div class="card-header-a">
-                      <h2 class="card-title-a">
-                        <a href="#">224 Mount
-                          <br /> Olive Road Two</a>
-                      </h2>
-                    </div>
-                    <div class="card-body-a">
-                      <div class="price-box d-flex">
-                        <span class="price-a">rent | $ 12.000</span>
-                      </div>
-                      
-                    </div>
-                    <div class="card-footer-a">
-                      <ul class="card-info d-flex justify-content-around">
-                      <li>
-                          <h4 class="card-info-title">Descripción</h4>
-                          <span>
-                            Producto 1, categoria 1, pintura de ..........
-                          </span>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
               
             <div class="col-md-4">
               <div class="card-box-a card-shadow">
@@ -454,8 +339,7 @@
                   <div class="card-overlay-a-content">
                     <div class="card-header-a">
                       <h2 class="card-title-a">
-                        <a href="#">204 Mount
-                          <br /> Olive Road Two</a>
+                        <a href="#">ESMALTE SUPREMO</a>
                       </h2>
                     </div>
                     <div class="card-body-a">
@@ -465,14 +349,14 @@
                       
                     </div>
                     <div class="card-footer-a">
-                      <ul class="card-info d-flex justify-content-around">
-                      <li>
-                          <h4 class="card-info-title">Descripción</h4>
-                          <span>
-                            Producto 1, categoria 1, pintura de ..........
-                          </span>
-                        </li>
-                      </ul>
+                    <div class="descripcion">
+                    Recubrimiento de superficies metálicas, madera y mampostería 
+                          en interiores y/o exteriores 
+                    </div>
+                   
+                         
+                      
+                        
                     </div>
                   </div>
                 </div>

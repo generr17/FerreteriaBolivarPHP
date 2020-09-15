@@ -14,11 +14,11 @@
             <ul>
               <li class="drop-down"><a>Pinturas</a>
                 <ul>
-                  <li><a href="catalogo/subcategoria1.php">Subcategoría 1</a></li>
-                  <li><a href="catalogo/subcategoria2.php">Subcategoría 2</a></li>
-                  <li><a href="#">Subcategoría 3</a></li>
-                  <li><a href="#">Subcategoría 4</a></li>
-                  <li><a href="#">Subcategoría 5</a></li>
+                  <li><a href="catalogo/subcategoria1.php">Cóndor</a></li>
+                  <li><a href="catalogo/subcategoria2.php">Unidas</a></li>
+                  <li><a href="#">Adheplast</a></li>
+                  <li><a href="#">Sika</a></li>
+                 
                 </ul>
               </li>
               <li class="drop-down"><a>Pinturas automotrices</a>
