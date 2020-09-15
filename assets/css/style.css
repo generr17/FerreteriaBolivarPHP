@@ -1683,6 +1683,10 @@ section {
   text-align: right;
   margin-bottom: 2rem;
 }
+.property-grid .container .row{
+  align-content: center;
+  padding: 50%;
+}
 
 .property-grid .grid-option .custom-select {
   border-radius: 0;
