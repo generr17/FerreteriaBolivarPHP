@@ -227,6 +227,8 @@
                     <div class="card-footer-a">
                     <div class="descripcion">
                           Pintura Arquitectónica tipo vinil-acrílica diseñada para la protección 
+                          y decoración de superficies de fibrocement, tanto exterior como interior.
+                          Pintura Arquitectónica tipo vinil-acrílica diseñada para la protección 
                           y decoración de superficies de fibrocement, tanto exterior como interior.<br>
                     </div> 
                     </div>

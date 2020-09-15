@@ -1536,7 +1536,7 @@ section {
 
 @media (min-width: 768px) and (min-width: 992px) {
   .card-box-a:hover .card-overlay-a-content {
-    bottom: 64px;
+    bottom: 150px;/*cambiar longitud de cuadro*/
   }
 }
 
@@ -1628,7 +1628,7 @@ section {
   z-index: 2;
   background-color:#20449B;
   align-content: center;
-  
+  height: 300px; /*cambiar largo del color*/
 }
 .card-footer-a .descripcion{
   text-align: justify;
@@ -1682,10 +1682,6 @@ section {
 .property-grid .grid-option {
   text-align: right;
   margin-bottom: 2rem;
-}
-.property-grid .container .row{
-  align-content: center;
-  padding: 50%;
 }
 
 .property-grid .grid-option .custom-select {
