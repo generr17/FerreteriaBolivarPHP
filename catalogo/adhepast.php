@@ -169,7 +169,7 @@
     <section class="property-grid grid">
     
     <div class="section-title">
-        <h2>Unidas</h2>
+        <h2>Adhepast</h2>
       </div>
         <div class="container" >
           <div class="row">

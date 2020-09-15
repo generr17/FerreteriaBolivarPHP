@@ -168,7 +168,7 @@
     
     <section class="property-grid grid">
     <div class="section-title">
-        <h2>Subcategoria 1</h2>
+        <h2>Cóndor</h2>
         <p>Observa nuestros productos </p>
       </div>
         <div class="container">
