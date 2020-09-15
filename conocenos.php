@@ -40,7 +40,7 @@
         <br>
     </div>
         
-        <div id="contenedorP">
+        <div id="contenedorP" data-aos="fade-up">
 	        <div id="contenedorS"></div>
         </div> 
 
@@ -62,7 +62,7 @@
 </div>
 
 
-<div id="progress-content-section">
+<div id="progress-content-section" data-aos="fade-up">
 	<div class="section-content discovery active">
 		<h2>1980</h2>
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec neque justo, consequat non fermentum ac, tempor eu turpis. Proin nulla eros, placerat non ipsum ut, dapibus ullamcorper ex. Nulla in dapibus lorem. Suspendisse vitae velit ac ante consequat placerat ut sed eros. Nullam porttitor mattis mi, id fringilla ex consequat eu. Praesent pulvinar tincidunt leo et condimentum. Maecenas volutpat turpis at felis egestas malesuada. Phasellus sem odio, venenatis at ex a, lacinia suscipit orci.</p>
