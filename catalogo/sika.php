@@ -176,13 +176,13 @@
             <div class="col-md-4">
               <div class="card-box-a card-shadow">
                 <div class="img-box-a">
-                  <img src="../assets/img/about.jpg" alt="" class="img-a img-fluid">
+                  <img src="../assets/img/productos/sika/empasteinteriores.png" alt="" class="img-a img-fluid">
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
                     <div class="card-header-a">
                       <h2 class="card-title-a">
-                        <a href="#">Latex Supremo</a>
+                        <a href="#">Empastes Interiores</a>
                       </h2>
                     </div>
                     <div class="card-body-a">
@@ -209,13 +209,13 @@
             <div class="col-md-4">
               <div class="card-box-a card-shadow">
                 <div class="img-box-a">
-                  <img src="../assets/img/about.jpg" alt="" class="img-a img-fluid">
+                  <img src="../assets/img/productos/sika/empasteexteriores.png" alt="" class="img-a img-fluid">
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
                     <div class="card-header-a">
                       <h2 class="card-title-a">
-                        <a href="#">Supremo Satín</a>
+                        <a href="#">Empastes Exteriores</a>
                       </h2>
                     </div>
                     <div class="card-body-a">
@@ -235,111 +235,19 @@
               </div>
             </div>
             
-            <div class="col-md-4">
-              <div class="card-box-a card-shadow">
-                <div class="img-box-a">
-                  <img src="../assets/img/about.jpg" alt="" class="img-a img-fluid">
-                </div>
-                <div class="card-overlay">
-                  <div class="card-overlay-a-content">
-                    <div class="card-header-a">
-                      <h2 class="card-title-a">
-                        <a href="#">ELASTOCRYL OPTIMA</a>
-                      </h2>
-                    </div>
-                    <div class="card-body-a">
-                      <div class="price-box d-flex">
-                        <span class="price-a">rent | $ 12.000</span>
-                      </div>
-                      
-                    </div>
-                    <div class="card-footer-a">
-                      <ul class="card-info d-flex justify-content-around">
-                      <li>
-                          <h4 class="card-info-title">Descripción</h4>
-                          <span>
-                            Producto 1, categoria 1, pintura de ..........
-                          </span>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <div class="card-box-a card-shadow">
-                <div class="img-box-a">
-                  <img src="../assets/img/about.jpg" alt="" class="img-a img-fluid">
-                </div>
-                <div class="card-overlay">
-                  <div class="card-overlay-a-content">
-                    <div class="card-header-a">
-                      <h2 class="card-title-a">
-                        <a href="#">UNICOLÁTEX PRO</a>
-                      </h2>
-                    </div>
-                    <div class="card-body-a">
-                      <div class="price-box d-flex">
-                        <span class="price-a">rent | $ 12.000</span>
-                      </div>
-                     
-                    </div>
-                    <div class="card-footer-a">
-                      <ul class="card-info d-flex justify-content-around">
-                      <li>
-                          <h4 class="card-info-title">Descripción</h4>
-                          <span>
-                            Producto 1, categoria 1, pintura de ..........
-                          </span>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4">
-                <div class="card-box-a card-shadow">
-                  <div class="img-box-a">
-                    <img src="../assets/img/about.jpg" alt="" class="img-a img-fluid">
-                  </div>
-                  <div class="card-overlay">
-                    <div class="card-overlay-a-content">
-                      <div class="card-header-a">
-                        <h2 class="card-title-a">
-                          <a href="#">UNITEJA</a>
-                        </h2>
-                      </div>
-                      <div class="card-body-a">
-                        <div class="price-box d-flex" >
-                        
-                        <span class="price-a"> </span>
-                        </div>
-                       
-                      </div>
-                      <div class="card-footer-a">
-                      <div class="descripcion">
-                       Látex vinil acrílico diseñado especialmente 
-                          para la fabricación de pinturas tanto
-                          de exteriores como para interiores.
-                      </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
+          
+            
               
             <div class="col-md-4">
               <div class="card-box-a card-shadow">
                 <div class="img-box-a">
-                  <img src="../assets/img/about.jpg" alt="" class="img-a img-fluid">
+                  <img src="../assets/img/productos/sika/sikafill5.png"  alt="" class="img-a img-fluid">
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
                     <div class="card-header-a">
                       <h2 class="card-title-a">
-                        <a href="#">ESMALTE SUPREMO</a>
+                        <a href="#">Impermeabilizantes</a>
                       </h2>
                     </div>
                     <div class="card-body-a">
