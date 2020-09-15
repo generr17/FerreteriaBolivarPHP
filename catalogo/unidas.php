@@ -182,25 +182,21 @@
                   <div class="card-overlay-a-content">
                     <div class="card-header-a">
                       <h2 class="card-title-a">
-                        <a href="#">Latex Supremo</a>
+                        <a href="#"></a>
                       </h2>
                     </div>
                     <div class="card-body-a">
                       <div class="price-box d-flex">
-                        <span class="price-a">rent | $ 12.000</span>
+                        <span class="price-a">Latex Supremo</span>
                       </div>
                       
                     </div>
                     <div class="card-footer-a">
-                    <ul class="card-info d-flex justify-content-around">
-                        <li>
-                          <h4 class="card-info-title">Descripción</h4>
-                          <span>
-                            Producto 1, categoria 1, pintura de ..........
-                          </span>
-                        </li>
-                        
-                      </ul>
+                    <div class="descripcion">
+                    <h4 class="card-info-title">Descripción</h4>
+                    Pintura de látex de la más elevada calidad,  diseñada para alcanzar tanto 
+                    las prestaciones de un sellador como de una pintura de acabado.
+                    </div>     
                     </div>
                   </div>
                 </div>
@@ -215,21 +211,21 @@
                   <div class="card-overlay-a-content">
                     <div class="card-header-a">
                       <h2 class="card-title-a">
-                        <a href="#">Supremo Satín</a>
+                        <a href="#"></a>
                       </h2>
                     </div>
                     <div class="card-body-a">
                       <div class="price-box d-flex">
-                        <span class="price-a">rent | $ 12.000</span>
+                        <span class="price-a">Supremo Satín</span>
                       </div>
                      
                     </div>
                     <div class="card-footer-a">
                     <div class="descripcion">
-                          Pintura Arquitectónica tipo vinil-acrílica diseñada para la protección 
-                          y decoración de superficies de fibrocement, tanto exterior como interior.
-                          Pintura Arquitectónica tipo vinil-acrílica diseñada para la protección 
-                          y decoración de superficies de fibrocement, tanto exterior como interior.<br>
+                    <h4 class="card-info-title">Descripción</h4>
+                    Pintura látex de excelente nivelación diseñada con tecnología 100% acrílica
+                    modificada, especialmente para interiores y acabados decorativos, lavable y durable.
+                  
                     </div> 
                     </div>
                   </div>
@@ -246,24 +242,23 @@
                   <div class="card-overlay-a-content">
                     <div class="card-header-a">
                       <h2 class="card-title-a">
-                        <a href="#">ELASTOCRYL OPTIMA</a>
+                        <a href="#"></a>
                       </h2>
                     </div>
                     <div class="card-body-a">
                       <div class="price-box d-flex">
-                        <span class="price-a">rent | $ 12.000</span>
+                        <span class="price-a">ELASTOCRYL OPTIMA</span>
                       </div>
                       
                     </div>
                     <div class="card-footer-a">
-                      <ul class="card-info d-flex justify-content-around">
-                      <li>
-                          <h4 class="card-info-title">Descripción</h4>
-                          <span>
-                            Producto 1, categoria 1, pintura de ..........
-                          </span>
-                        </li>
-                      </ul>
+                    <div class="descripcion">
+                    <h4 class="card-info-title">Descripción</h4>
+                    Pintura de látex de la más elevada calidad, diseñada con un cubrimiento
+                    óptimo.Ofrece sus excelentes características como protección, 
+                    resistencia a microorganismos y resistente a los factores 
+                    cambiantes del medio ambiente.
+                    </div>     
                     </div>
                   </div>
                 </div>
@@ -278,24 +273,22 @@
                   <div class="card-overlay-a-content">
                     <div class="card-header-a">
                       <h2 class="card-title-a">
-                        <a href="#">UNICOLÁTEX PRO</a>
+                      
                       </h2>
                     </div>
                     <div class="card-body-a">
                       <div class="price-box d-flex">
-                        <span class="price-a">rent | $ 12.000</span>
+                        <span class="price-a">UNICOLÁTEX PRO</span>
                       </div>
                      
                     </div>
                     <div class="card-footer-a">
-                      <ul class="card-info d-flex justify-content-around">
-                      <li>
-                          <h4 class="card-info-title">Descripción</h4>
-                          <span>
-                            Producto 1, categoria 1, pintura de ..........
-                          </span>
-                        </li>
-                      </ul>
+                    <div class="descripcion">
+                    <h4 class="card-info-title">Descripción</h4>
+                    Pinturas de Látex Tipo 3 para interiores, de gran cubrimiento y excelente
+                    rendimiento a bajo costo, ideal para superficies grandes como escuelas,
+                    colegios e instituciones en general.
+                    </div>     
                     </div>
                   </div>
                 </div>
@@ -310,23 +303,24 @@
                     <div class="card-overlay-a-content">
                       <div class="card-header-a">
                         <h2 class="card-title-a">
-                          <a href="#">UNITEJA</a>
+                          <a href="#"></a>
                         </h2>
                       </div>
                       <div class="card-body-a">
                         <div class="price-box d-flex" >
                         
-                        <span class="price-a"> </span>
+                        <span class="price-a"> UNITEJA</span>
                         </div>
                        
                       </div>
                       <div class="card-footer-a">
-                      <div class="descripcion">
-                       Látex vinil acrílico diseñado especialmente 
-                          para la fabricación de pinturas tanto
-                          de exteriores como para interiores.
-                      </div>
-                      </div>
+                    <div class="descripcion">
+                    <h4 class="card-info-title">Descripción</h4>
+                    Pintura de Látex diseñada especialmente para recubrir superficies de asbesto 
+                    cemento o tejas. Con acción impermeable y resistente a la luz solar así como también 
+                    al crecimiento de hongos. 
+                    </div>     
+                    </div>
                     </div>
                   </div>
                 </div>
@@ -341,24 +335,22 @@
                   <div class="card-overlay-a-content">
                     <div class="card-header-a">
                       <h2 class="card-title-a">
-                        <a href="#">ESMALTE SUPREMO</a>
+                        <a href="#"></a>
                       </h2>
                     </div>
                     <div class="card-body-a">
                       <div class="price-box d-flex">
-                        <span class="price-a">rent | $ 12.000</span>
+                        <span class="price-a">ESMALTE SUPREMO</span>
                       </div>
                       
                     </div>
                     <div class="card-footer-a">
                     <div class="descripcion">
-                    Recubrimiento de superficies metálicas, madera y mampostería 
-                          en interiores y/o exteriores 
-                    </div>
-                   
-                         
-                      
-                        
+                    <h4 class="card-info-title">Descripción</h4>
+                    Pintura base aceite de alta calidad, con gran brillo y larga duración. Para
+                    cualquier ambiente brinda adecuada protección contra la suciedad y
+                    corrosión en diferentes sustratos. 
+                    </div>     
                     </div>
                   </div>
                 </div>

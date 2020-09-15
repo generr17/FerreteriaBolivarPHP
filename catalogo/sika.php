@@ -182,25 +182,23 @@
                   <div class="card-overlay-a-content">
                     <div class="card-header-a">
                       <h2 class="card-title-a">
-                        <a href="#">Empastes Interiores</a>
+                        <a href="#"></a>
                       </h2>
                     </div>
                     <div class="card-body-a">
                       <div class="price-box d-flex">
-                        <span class="price-a">rent | $ 12.000</span>
+                        <span class="price-a">Empastes Interiores</span>
                       </div>
                       
                     </div>
                     <div class="card-footer-a">
-                    <ul class="card-info d-flex justify-content-around">
-                        <li>
-                          <h4 class="card-info-title">Descripción</h4>
-                          <span>
-                            Producto 1, categoria 1, pintura de ..........
-                          </span>
-                        </li>
-                        
-                      </ul>
+                    <div class="descripcion">
+                    <h4 class="card-info-title">Descripción</h4>
+                    Monotop Empaste Interior es una excelente base para
+                    pinturas para un acabado estetico y decorativo de un
+                    solo componente
+
+                    </div> 
                     </div>
                   </div>
                 </div>
@@ -215,17 +213,18 @@
                   <div class="card-overlay-a-content">
                     <div class="card-header-a">
                       <h2 class="card-title-a">
-                        <a href="#">Empastes Exteriores</a>
+                        <a href="#"></a>
                       </h2>
                     </div>
                     <div class="card-body-a">
                       <div class="price-box d-flex">
-                        <span class="price-a">rent | $ 12.000</span>
+                        <span class="price-a">Empastes Exteriores</span>
                       </div>
                      
                     </div>
                     <div class="card-footer-a">
                     <div class="descripcion">
+                    <h4 class="card-info-title">Descripción</h4>
                           Pintura Arquitectónica tipo vinil-acrílica diseñada para la protección 
                           y decoración de superficies de fibrocement, tanto exterior como interior.<br>
                     </div> 
@@ -244,24 +243,21 @@
                   <div class="card-overlay-a-content">
                     <div class="card-header-a">
                       <h2 class="card-title-a">
-                        <a href="#">Impermeabilizantes</a>
+                        <a href="#"></a>
                       </h2>
                     </div>
                     <div class="card-body-a">
                       <div class="price-box d-flex">
-                        <span class="price-a">rent | $ 12.000</span>
+                        <span class="price-a">Impermeabilizantes</span>
                       </div>
                       
                     </div>
                     <div class="card-footer-a">
                     <div class="descripcion">
-                    Recubrimiento de superficies metálicas, madera y mampostería 
-                          en interiores y/o exteriores 
-                    </div>
-                   
-                         
-                      
-                        
+                    <h4 class="card-info-title">Descripción</h4>
+                          Pintura Arquitectónica tipo vinil-acrílica diseñada para la protección 
+                          y decoración de superficies de fibrocement, tanto exterior como interior.<br>
+                    </div> 
                     </div>
                   </div>
                 </div>
