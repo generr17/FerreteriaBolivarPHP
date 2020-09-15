@@ -1548,7 +1548,7 @@ section {
 
 @media (max-width: 767px) {
   .card-box-a .card-overlay-a-content {
-    bottom: 65px;
+    bottom: 150px;/*cambiar longitud de cuadro*/
   }
   .card-box-a .card-body-a {
     padding-bottom: 1rem;
