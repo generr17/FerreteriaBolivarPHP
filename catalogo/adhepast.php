@@ -46,7 +46,7 @@
                     <ul>
                     <li><a href="../catalogo/condor.php">Cóndor</a></li>
                       <li><a href="../catalogo/unidas.php">Unidas</a></li>
-                      <li><a href="../catalogo/adheplast.php">Adheplas</a></li>
+                      <li><a href="../catalogo/adhepast.php">Adhepast</a></li>
                       <li><a href="../catalogo/sika.php">Sika</a></li>
                       
                     </ul>
@@ -165,13 +165,12 @@
     
       <main id="main">
       <!-- ======= Property Grid ======= -->
-    
     <section class="property-grid grid">
     <div class="section-title">
         <h2>Unidas</h2>
       </div>
         <div class="container" >
-          <div class="row" style="align-content: center;">
+          <div class="row">
             
             <div class="col-md-4">
               <div class="card-box-a card-shadow">
@@ -317,6 +316,7 @@
             </div>
           </div>
         </div>
+        
       </section><!-- End Property Grid Single-->
   
     </main><!-- End #main -->
