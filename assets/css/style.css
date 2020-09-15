@@ -1758,6 +1758,7 @@ height: 100px;
 .hijo {
   height: 170px;
   width: 100%;
+  
   overflow:hidden;
 }
 

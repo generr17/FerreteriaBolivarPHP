@@ -176,7 +176,7 @@
             <div class="col-md-4">
               <div class="card-box-a card-shadow">
                 <div class="img-box-a">
-                  <img src="../assets/img/about.jpg" alt="" class="img-a img-fluid">
+                  <img src="../assets/img/productos/unidas/latexsupremo.png" alt="" class="img-a img-fluid">
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
@@ -209,7 +209,7 @@
             <div class="col-md-4">
               <div class="card-box-a card-shadow">
                 <div class="img-box-a">
-                  <img src="../assets/img/about.jpg" alt="" class="img-a img-fluid">
+                  <img src="../assets/img/productos/unidas/supremosatin.png" alt="" class="img-a img-fluid">
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
@@ -238,7 +238,7 @@
             <div class="col-md-4">
               <div class="card-box-a card-shadow">
                 <div class="img-box-a">
-                  <img src="../assets/img/about.jpg" alt="" class="img-a img-fluid">
+                  <img src="../assets/img/productos/unidas/elastocryloptima.png" alt="" class="img-a img-fluid">
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
@@ -270,7 +270,7 @@
             <div class="col-md-4">
               <div class="card-box-a card-shadow">
                 <div class="img-box-a">
-                  <img src="../assets/img/about.jpg" alt="" class="img-a img-fluid">
+                  <img src="../assets/img/productos/unidas/unicolatexpro.png" alt="" class="img-a img-fluid">
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
@@ -302,7 +302,7 @@
             <div class="col-md-4">
                 <div class="card-box-a card-shadow">
                   <div class="img-box-a">
-                    <img src="../assets/img/about.jpg" alt="" class="img-a img-fluid">
+                    <img src="../assets/img/productos/unidas/uniteja.png" alt="" class="img-a img-fluid">
                   </div>
                   <div class="card-overlay">
                     <div class="card-overlay-a-content">
@@ -333,7 +333,7 @@
             <div class="col-md-4">
               <div class="card-box-a card-shadow">
                 <div class="img-box-a">
-                  <img src="../assets/img/about.jpg" alt="" class="img-a img-fluid">
+                  <img src="../assets/img/productos/unidas/esmaltesupremo.png" alt="" class="img-a img-fluid">
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">

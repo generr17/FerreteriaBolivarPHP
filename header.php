@@ -14,10 +14,10 @@
             <ul>
               <li class="drop-down"><a>Pinturas</a>
                 <ul>
-                  <li><a href="catalogo/subcategoria1.php">Cóndor</a></li>
-                  <li><a href="catalogo/subcategoria2.php">Unidas</a></li>
-                  <li><a href="#">Adheplast</a></li>
-                  <li><a href="#">Sika</a></li>
+                  <li><a href="./catalogo/condor.php">Cóndor</a></li>
+                  <li><a href="./catalogo/unidas.php">Unidas</a></li>
+                  <li><a href="./catalogo/adhelast.php">Adheplast</a></li>
+                  <li><a href="./catalogo/sika.php">Sika</a></li>
                  
                 </ul>
               </li>

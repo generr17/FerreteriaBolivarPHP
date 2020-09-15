@@ -177,7 +177,7 @@
             <div class="col-md-4">
               <div class="card-box-a card-shadow">
                 <div class="img-box-a">
-                  <img src="../assets/img/about.jpg" alt="" class="img-a img-fluid">
+                  <img src="../assets/img/productos/condor/permalatex.png" alt="" class="img-a img-fluid">
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
@@ -210,7 +210,7 @@
             <div class="col-md-4">
               <div class="card-box-a card-shadow">
                 <div class="img-box-a">
-                  <img src="../assets/img/about.jpg" alt="" class="img-a img-fluid">
+                  <img src="../assets/img/productos/condor/eternacril.png" alt="" class="img-a img-fluid">
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
@@ -239,7 +239,7 @@
             <div class="col-md-4">
               <div class="card-box-a card-shadow">
                 <div class="img-box-a">
-                  <img src="../assets/img/about.jpg" alt="" class="img-a img-fluid">
+                  <img src="../assets/img/productos/condor/supercorona.png" alt="" class="img-a img-fluid">
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
@@ -271,7 +271,7 @@
             <div class="col-md-4">
               <div class="card-box-a card-shadow">
                 <div class="img-box-a">
-                  <img src="../assets/img/about.jpg" alt="" class="img-a img-fluid">
+                  <img src="../assets/img/productos/condor/latexpin3.png" alt="" class="img-a img-fluid">
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
@@ -303,7 +303,7 @@
             <div class="col-md-4">
                 <div class="card-box-a card-shadow">
                   <div class="img-box-a">
-                    <img src="../assets/img/about.jpg" alt="" class="img-a img-fluid">
+                    <img src="../assets/img/productos/condor/resaflex.png" alt="" class="img-a img-fluid">
                   </div>
                   <div class="card-overlay">
                     <div class="card-overlay-a-content">
@@ -319,7 +319,7 @@
                         </div>
                        
                       </div>
-                      <div class=c"ard-footer-a">
+                      <div class="card-footer-a">
                       <div class="descripcion">
                        Látex vinil acrílico diseñado especialmente 
                           para la fabricación de pinturas tanto
@@ -334,7 +334,7 @@
             <div class="col-md-4">
               <div class="card-box-a card-shadow">
                 <div class="img-box-a">
-                  <img src="../assets/img/about.jpg" alt="" class="img-a img-fluid">
+                  <img src="../assets/img/productos/condor/tan.png" alt="" class="img-a img-fluid">
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
