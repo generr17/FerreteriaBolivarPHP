@@ -183,25 +183,20 @@
                   <div class="card-overlay-a-content">
                     <div class="card-header-a">
                       <h2 class="card-title-a">
-                        <a href="#">Permalatex</a>
+                        <a href="#"></a>
                       </h2>
                     </div>
                     <div class="card-body-a">
                       <div class="price-box d-flex">
-                        <span class="price-a">rent | $ 12.000</span>
+                        <span class="price-a">Permalatex</span>
                       </div>
                       
                     </div>
                     <div class="card-footer-a">
-                    <ul class="card-info d-flex justify-content-around">
-                        <li>
-                          <h4 class="card-info-title">Descripción</h4>
-                          <span>
-                            Producto 1, categoria 1, pintura de ..........
-                          </span>
-                        </li>
-                        
-                      </ul>
+                    <div class="descripcion">
+                    <h4 class="card-info-title">Descripción</h4>
+                       Pintura de tipo elastomérico plastificada de alta calidad. Ideal para ser utilizada en exteriores.
+                    </div> 
                     </div>
                   </div>
                 </div>
@@ -216,19 +211,20 @@
                   <div class="card-overlay-a-content">
                     <div class="card-header-a">
                       <h2 class="card-title-a">
-                        <a href="#">Eternacril</a>
+                        <a href="#"></a>
                       </h2>
                     </div>
                     <div class="card-body-a">
                       <div class="price-box d-flex">
-                        <span class="price-a">rent | $ 12.000</span>
+                        <span class="price-a">Eternacril</span>
                       </div>
                      
                     </div>
                     <div class="card-footer-a">
                     <div class="descripcion">
+                    <h4 class="card-info-title">Descripción</h4>
                           Pintura Arquitectónica tipo vinil-acrílica diseñada para la protección 
-                          y decoración de superficies de fibrocement, tanto exterior como interior.<br>
+                          y decoración de superficies de fibrocement, tanto exterior como interior.
                     </div> 
                     </div>
                   </div>
@@ -245,24 +241,21 @@
                   <div class="card-overlay-a-content">
                     <div class="card-header-a">
                       <h2 class="card-title-a">
-                        <a href="#">Super Corona</a>
+                        <a href="#"></a>
                       </h2>
                     </div>
                     <div class="card-body-a">
                       <div class="price-box d-flex">
-                        <span class="price-a">rent | $ 12.000</span>
+                        <span class="price-a">Super Corona</span>
                       </div>
                       
                     </div>
                     <div class="card-footer-a">
-                      <ul class="card-info d-flex justify-content-around">
-                      <li>
-                          <h4 class="card-info-title">Descripción</h4>
-                          <span>
-                            Producto 1, categoria 1, pintura de ..........
-                          </span>
-                        </li>
-                      </ul>
+                    <div class="descripcion">
+                    <h4 class="card-info-title">Descripción</h4>
+                    Pintura arquitectónica tipo vinil-acrílica, diseñada para proteger 
+                    y decorar los acabados tanto interiores como exteriores.
+                    </div> 
                     </div>
                   </div>
                 </div>
@@ -277,24 +270,20 @@
                   <div class="card-overlay-a-content">
                     <div class="card-header-a">
                       <h2 class="card-title-a">
-                        <a href="#">Pin 3</a>
+                        <a href="#"></a>
                       </h2>
                     </div>
                     <div class="card-body-a">
                       <div class="price-box d-flex">
-                        <span class="price-a">rent | $ 12.000</span>
+                        <span class="price-a">Pin 3</span>
                       </div>
                      
                     </div>
                     <div class="card-footer-a">
-                      <ul class="card-info d-flex justify-content-around">
-                      <li>
-                          <h4 class="card-info-title">Descripción</h4>
-                          <span>
-                            Producto 1, categoria 1, pintura de ..........
-                          </span>
-                        </li>
-                      </ul>
+                    <div class="descripcion">
+                    <h4 class="card-info-title">Descripción</h4>
+                    .................
+                    </div> 
                     </div>
                   </div>
                 </div>
@@ -309,21 +298,21 @@
                     <div class="card-overlay-a-content">
                       <div class="card-header-a">
                         <h2 class="card-title-a">
-                          <a href="#">Resa Flex</a>
+                          <a href="#"></a>
                         </h2>
                       </div>
                       <div class="card-body-a">
                         <div class="price-box d-flex" >
                         
-                        <span class="price-a"> </span>
+                        <span class="price-a">Resa Flex</span>
                         </div>
                        
                       </div>
                       <div class="card-footer-a">
                       <div class="descripcion">
-                       Látex vinil acrílico diseñado especialmente 
-                          para la fabricación de pinturas tanto
-                          de exteriores como para interiores.
+                      <h4 class="card-info-title">Descripción</h4>
+                      Látex vinil acrílico diseñado especialmente para la fabricación
+                       de pinturas tanto de exteriores como para interiores.
                       </div>
                       </div>
                     </div>
@@ -340,24 +329,21 @@
                   <div class="card-overlay-a-content">
                     <div class="card-header-a">
                       <h2 class="card-title-a">
-                        <a href="#">TAN</a>
+                        <a href="#"></a>
                       </h2>
                     </div>
                     <div class="card-body-a">
                       <div class="price-box d-flex">
-                        <span class="price-a">rent | $ 12.000</span>
+                        <span class="price-a">TAN</span>
                       </div>
                       
                     </div>
                     <div class="card-footer-a">
                     <div class="descripcion">
-                    Recubrimiento de superficies metálicas, madera y mampostería 
-                          en interiores y/o exteriores 
+                    <h4 class="card-info-title">Descripción</h4>
+                    Recubrimiento protector para atmósferas exteriores por su excelente comportamiento en exposición ambiental.
                     </div>
-                   
-                         
-                      
-                        
+                     
                     </div>
                   </div>
                 </div>
