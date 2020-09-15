@@ -35,40 +35,85 @@
   <!--endheader-->
   <main id="main">
     <div class="fondoa">
-    <!-- ======= About Section ======= -->
-    <section id="about" class="about">
+    
+    <div class="section-title">
+        <br>
+    </div>
+        
+        <div id="contenedorP">
+	        <div id="contenedorS"></div>
+        </div> 
+
+<div class="process-wrapper">
+	<div id="progress-bar-container" data-aos="fade-up">
+		
+		<ul>
+			<li class="step step01 active"><div class="step-inner">1980</div></li>
+			<li class="step step02"><div class="step-inner">1990</div></li>
+			<li class="step step03"><div class="step-inner">2000</div></li>
+			<li class="step step04"><div class="step-inner">2010</div></li>
+			<li class="step step05"><div class="step-inner">2020</div></li>
+		</ul>
+		
+		<div id="line">
+			<div id="line-progress"></div>
+		</div>
+	</div>
+</div>
+
+
+<div id="progress-content-section">
+	<div class="section-content discovery active">
+		<h2>1980</h2>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec neque justo, consequat non fermentum ac, tempor eu turpis. Proin nulla eros, placerat non ipsum ut, dapibus ullamcorper ex. Nulla in dapibus lorem. Suspendisse vitae velit ac ante consequat placerat ut sed eros. Nullam porttitor mattis mi, id fringilla ex consequat eu. Praesent pulvinar tincidunt leo et condimentum. Maecenas volutpat turpis at felis egestas malesuada. Phasellus sem odio, venenatis at ex a, lacinia suscipit orci.</p>
+	</div>
+	
+	<div class="section-content strategy">
+		<h2>1990</h2>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec neque justo, consequat non fermentum ac, tempor eu turpis. Proin nulla eros, placerat non ipsum ut, dapibus ullamcorper ex. Nulla in dapibus lorem. Suspendisse vitae velit ac ante consequat placerat ut sed eros. Nullam porttitor mattis mi, id fringilla ex consequat eu. Praesent pulvinar tincidunt leo et condimentum. Maecenas volutpat turpis at felis egestas malesuada. Phasellus sem odio, venenatis at ex a, lacinia suscipit orci.</p>
+	</div>
+	
+	<div class="section-content creative">
+		<h2>2000</h2>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec neque justo, consequat non fermentum ac, tempor eu turpis. Proin nulla eros, placerat non ipsum ut, dapibus ullamcorper ex. Nulla in dapibus lorem. Suspendisse vitae velit ac ante consequat placerat ut sed eros. Nullam porttitor mattis mi, id fringilla ex consequat eu. Praesent pulvinar tincidunt leo et condimentum. Maecenas volutpat turpis at felis egestas malesuada. Phasellus sem odio, venenatis at ex a, lacinia suscipit orci.</p>
+	</div>
+	
+	<div class="section-content production">
+		<h2>2010</h2>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec neque justo, consequat non fermentum ac, tempor eu turpis. Proin nulla eros, placerat non ipsum ut, dapibus ullamcorper ex. Nulla in dapibus lorem. Suspendisse vitae velit ac ante consequat placerat ut sed eros. Nullam porttitor mattis mi, id fringilla ex consequat eu. Praesent pulvinar tincidunt leo et condimentum. Maecenas volutpat turpis at felis egestas malesuada. Phasellus sem odio, venenatis at ex a, lacinia suscipit orci.</p>
+	</div>
+	
+	<div class="section-content analysis">
+		<h2>2020</h2>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec neque justo, consequat non fermentum ac, tempor eu turpis. Proin nulla eros, placerat non ipsum ut, dapibus ullamcorper ex. Nulla in dapibus lorem. Suspendisse vitae velit ac ante consequat placerat ut sed eros. Nullam porttitor mattis mi, id fringilla ex consequat eu. Praesent pulvinar tincidunt leo et condimentum. Maecenas volutpat turpis at felis egestas malesuada. Phasellus sem odio, venenatis at ex a, lacinia suscipit orci.</p>
+	</div>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+   <!-- ======= About Section ======= -->
+   <section id="about" class="about">
       <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Cónocenos</h2>
-          <p>Aquí tendras una breve historia, y los aspectos mas importantes que nuestra empresa tiene</p>
-        </div>
-
+        <br><br>
         <div class="row">
           <div class="col-lg-4">
             <img src="assets/img/conocenos.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content">
-            <h3>Nuestra historia</h3>
-            <p class="font-italic">
-              <p align="justify">Ferreterías Bolívar es una gran empresa que se enfoca... aqui va la historia de la empresa</p>
-            </p>
+              <br>
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="icofont-rounded-right"></i> <strong>Misión:</strong>  <p align="justify">Aqui va la misión de la empresa</p></li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Misión:</strong>  <p align="justify">Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
+              Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.</p></li>
                 </ul>
               </div>
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="icofont-rounded-right"></i> <strong>Visión:</strong> <p align="justify">Aqui va la visión de la empresa</p></li></li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Visión:</strong> <p align="justify">Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
+              Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.</p></li></li>
                 </ul>
               </div>
             </div>
-            <p>
-              Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-              Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.
-            </p>
           </div>
         </div>
 
@@ -271,6 +316,7 @@
   <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
   <script src="assets/vendor/venobox/venobox.min.js"></script>
   <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/js/tline.js"></script>
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
