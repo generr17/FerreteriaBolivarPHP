@@ -171,9 +171,9 @@
         <h2>Unidas</h2>
       </div>
         <div class="container" >
-          <div class="row" style="align-content: center;">
+          <div class="row">
             
-            <div class="col-md-4">
+            <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
               <div class="card-box-a card-shadow">
                 <div class="img-box-a">
                   <img src="../assets/img/productos/Adhepast/latexreflections.png" alt="" class="img-a img-fluid">
@@ -206,7 +206,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200"class="col-md-4">
               <div class="card-box-a card-shadow">
                 <div class="img-box-a">
                   <img src="../assets/img/productos/Adhepast/latexdiscovery.png" alt="" class="img-a img-fluid">
@@ -235,8 +235,8 @@
               </div>
             </div>
             </div>
-            <div class="row" style="align-content: center;">
-            <div class="col-md-4">
+            <div class="row">
+            <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
               <div class="card-box-a card-shadow">
                 <div class="img-box-a">
                   <img src="../assets/img/productos/Adhepast/latexsuperfuerte.png" alt="" class="img-a img-fluid">
@@ -269,7 +269,7 @@
               </div>
             </div>
           
-            <div class="col-md-4">
+            <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
               <div class="card-box-a card-shadow">
                 <div class="img-box-a">
                   <img src="../assets/img/productos/Adhepast/esmalteduracolor.png" alt="" class="img-a img-fluid">
