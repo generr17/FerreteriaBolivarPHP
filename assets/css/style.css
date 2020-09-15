@@ -1540,7 +1540,7 @@ section {
 
 @media (min-width: 768px) and (min-width: 992px) {
   .card-box-a:hover .card-overlay-a-content {
-    bottom: 150px;/*cambiar longitud de cuadro*/
+    bottom: 170px;/*cambiar longitud de cuadro*/
   }
 }
 
@@ -1552,7 +1552,7 @@ section {
 
 @media (max-width: 767px) {
   .card-box-a .card-overlay-a-content {
-    bottom: 150px;/*cambiar longitud de cuadro*/
+    bottom: 170px;/*cambiar longitud de cuadro*/
   }
   .card-box-a .card-body-a {
     padding-bottom: 1rem;
@@ -1617,9 +1617,10 @@ section {
 }
 
 .price-a {
-  color: #ffffff;
+  color: white;
+  font-weight: bold;
   padding: .5rem .6rem;
-  border: 2px solid #1261A9;
+  border: 2px solid #28519E;
   border-radius: 50px;
   text-transform: uppercase;
   letter-spacing: 0.030em;
@@ -1630,7 +1631,7 @@ section {
   width: 100%;
   position: absolute;
   z-index: 2;
-  background-color:#20449B;
+  background-color:#133679;
   align-content: center;
   height: 300px; /*cambiar largo del color*/
 }
