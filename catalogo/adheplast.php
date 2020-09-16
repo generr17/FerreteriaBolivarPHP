@@ -46,7 +46,7 @@
                     <ul>
                     <li><a href="../catalogo/condor.php">Cóndor</a></li>
                       <li><a href="../catalogo/unidas.php">Unidas</a></li>
-                      <li><a href="../catalogo/adhepast.php">Adhepast</a></li>
+                      <li><a href="../catalogo/adheplast.php">Adheplast</a></li>
                       <li><a href="../catalogo/sika.php">Sika</a></li>
                       
                     </ul>
@@ -169,7 +169,7 @@
     <section class="property-grid grid">
     
     <div class="section-title">
-        <h2>Adhepast</h2>
+        <h2>Adheplast</h2>
       </div>
         <div class="container" >
           <div class="row">
@@ -181,14 +181,10 @@
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
-                    <div class="card-header-a">
-                      <h2 class="card-title-a">
-                        <a href="#">Latex Reflections</a>
-                      </h2>
-                    </div>
+                  
                     <div class="card-body-a">
                       <div class="price-box d-flex">
-                        <span class="price-a">rent | $ 12.000</span>
+                        <span class="price-a">Latex Reflections</span>
                       </div>
                       
                     </div>
@@ -214,14 +210,10 @@
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
-                    <div class="card-header-a">
-                      <h2 class="card-title-a">
-                        <a href="#">Latex Discovery</a>
-                      </h2>
-                    </div>
+                   
                     <div class="card-body-a">
                       <div class="price-box d-flex">
-                        <span class="price-a">rent | $ 12.000</span>
+                        <span class="price-a">Latex Discovery</span>
                       </div>
                      
                     </div>
@@ -244,14 +236,10 @@
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
-                    <div class="card-header-a">
-                      <h2 class="card-title-a">
-                        <a href="#">Latex Superfuerte</a>
-                      </h2>
-                    </div>
+                   
                     <div class="card-body-a">
                       <div class="price-box d-flex">
-                        <span class="price-a">rent | $ 12.000</span>
+                        <span class="price-a">Latex Superfuerte</span>
                       </div>
                       
                     </div>
@@ -277,14 +265,10 @@
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
-                    <div class="card-header-a">
-                      <h2 class="card-title-a">
-                        <a href="#">Esmalte Duracolor</a>
-                      </h2>
-                    </div>
+                  
                     <div class="card-body-a">
                       <div class="price-box d-flex">
-                        <span class="price-a">rent | $ 12.000</span>
+                        <span class="price-a">Esmalte Duracolor</span>
                       </div>
                       
                     </div>

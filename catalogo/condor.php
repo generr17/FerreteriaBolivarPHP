@@ -46,7 +46,7 @@
                     <ul>
                     <li><a href="../catalogo/condor.php">Cóndor</a></li>
                       <li><a href="../catalogo/unidas.php">Unidas</a></li>
-                      <li><a href="../catalogo/adhepast.php">Adheplast</a></li>
+                      <li><a href="../catalogo/adheplast.php">Adheplast</a></li>
                       <li><a href="../catalogo/sika.php">Sika</a></li>
                       
                     </ul>
