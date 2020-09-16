@@ -2110,8 +2110,9 @@ height: 100px;
 	100% {
 		transform:translateY(0px);
 		opacity:1;
-	}
+  }
 }
+
 #contenedorP {
 	height: 300px;
 	width: 100%;

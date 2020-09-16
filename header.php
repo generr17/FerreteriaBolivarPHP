@@ -124,7 +124,7 @@
       </nav><!-- .nav-menu -->
 
       <div class="header-social-links">
-        <a href="https://www.facebook.com/grupoferreterobolivar/?ref=settings" target="_blank" class="facebook"><i class="icofont-facebook"></i></a>
+        <a href="https://www.facebook.com/ferreteriasbolivar" target="_blank" class="facebook"><i class="icofont-facebook"></i></a>
         <a href="https://www.instagram.com/fer.bolivar/" target="_blank" class="instagram"><i class="icofont-instagram"></i></a>
       </div>
 
