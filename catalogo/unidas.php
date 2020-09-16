@@ -180,11 +180,7 @@
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
-                    <div class="card-header-a">
-                      <h2 class="card-title-a">
-                        <a href="#"></a>
-                      </h2>
-                    </div>
+                    
                     <div class="card-body-a">
                       <div class="price-box d-flex">
                         <span class="price-a">Latex Supremo</span>
@@ -194,8 +190,10 @@
                     <div class="card-footer-a">
                     <div class="descripcion">
                     <h4 class="card-info-title">Descripción</h4>
+                    <br>
                     Pintura de látex de la más elevada calidad,  diseñada para alcanzar tanto 
                     las prestaciones de un sellador como de una pintura de acabado.
+                    <br>
                     </div>     
                     </div>
                   </div>
@@ -209,11 +207,7 @@
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
-                    <div class="card-header-a">
-                      <h2 class="card-title-a">
-                        <a href="#"></a>
-                      </h2>
-                    </div>
+                    
                     <div class="card-body-a">
                       <div class="price-box d-flex">
                         <span class="price-a">Supremo Satín</span>
@@ -223,9 +217,10 @@
                     <div class="card-footer-a">
                     <div class="descripcion">
                     <h4 class="card-info-title">Descripción</h4>
+                    <br>
                     Pintura látex de excelente nivelación diseñada con tecnología 100% acrílica
                     modificada, especialmente para interiores y acabados decorativos, lavable y durable.
-                  
+                  <br>
                     </div> 
                     </div>
                   </div>
@@ -240,11 +235,7 @@
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
-                    <div class="card-header-a">
-                      <h2 class="card-title-a">
-                        <a href="#"></a>
-                      </h2>
-                    </div>
+                    
                     <div class="card-body-a">
                       <div class="price-box d-flex">
                         <span class="price-a">ELASTOCRYL OPTIMA</span>
@@ -271,11 +262,7 @@
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
-                    <div class="card-header-a">
-                      <h2 class="card-title-a">
-                      
-                      </h2>
-                    </div>
+                    
                     <div class="card-body-a">
                       <div class="price-box d-flex">
                         <span class="price-a">UNICOLÁTEX PRO</span>
@@ -285,9 +272,11 @@
                     <div class="card-footer-a">
                     <div class="descripcion">
                     <h4 class="card-info-title">Descripción</h4>
+                    <br>
                     Pinturas de Látex Tipo 3 para interiores, de gran cubrimiento y excelente
                     rendimiento a bajo costo, ideal para superficies grandes como escuelas,
                     colegios e instituciones en general.
+                    <br>
                     </div>     
                     </div>
                   </div>
@@ -301,11 +290,7 @@
                   </div>
                   <div class="card-overlay">
                     <div class="card-overlay-a-content">
-                      <div class="card-header-a">
-                        <h2 class="card-title-a">
-                          <a href="#"></a>
-                        </h2>
-                      </div>
+                    
                       <div class="card-body-a">
                         <div class="price-box d-flex" >
                         
@@ -333,11 +318,7 @@
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
-                    <div class="card-header-a">
-                      <h2 class="card-title-a">
-                        <a href="#"></a>
-                      </h2>
-                    </div>
+                    
                     <div class="card-body-a">
                       <div class="price-box d-flex">
                         <span class="price-a">ESMALTE SUPREMO</span>
@@ -347,9 +328,10 @@
                     <div class="card-footer-a">
                     <div class="descripcion">
                     <h4 class="card-info-title">Descripción</h4>
+                    <br>
                     Pintura base aceite de alta calidad, con gran brillo y larga duración. Para
                     cualquier ambiente brinda adecuada protección contra la suciedad y
-                    corrosión en diferentes sustratos. 
+                    corrosión en diferentes sustratos. <br>
                     </div>     
                     </div>
                   </div>
