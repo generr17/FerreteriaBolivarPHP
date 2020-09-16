@@ -195,8 +195,8 @@
                     <div class="descripcion">
                     <h4 class="card-info-title">Descripción</h4>
                     <br>
-                    Empaste para Interiores es una base acrílica para pinturas, dando como
-                    resultado un excelente acabado estético y decorativo.
+                    Base acrílica para pinturas, que da como resultado un excelente acabado
+                    estético y decorativo.
                     <br>
 
                     </div> 
