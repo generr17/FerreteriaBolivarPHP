@@ -91,7 +91,7 @@
                     <div class="validate"></div>
                   </div>
                   <div class="col-md-6 form-group">
-                    <input type="number" class="form-control" name="telefono" id="telefono" placeholder="Ingresa teléfono" data-rule="minlen:10" data-msg="Ingresa un teléfono válido" />
+                    <input type="text" class="form-control" name="telefono" id="telefono" placeholder="Ingresa teléfono" data-rule="minlen:10" data-msg="Ingresa un teléfono válido"  onKeypress="if (event.keyCode < 45 || event.keyCode > 57) event.returnValue = false;"/> 
                     <div class="validate"></div>
                   </div>
                 </div>
