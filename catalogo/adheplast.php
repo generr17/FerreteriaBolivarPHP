@@ -46,7 +46,7 @@
                     <ul>
                     <li><a href="../catalogo/condor.php">Cóndor</a></li>
                       <li><a href="../catalogo/unidas.php">Unidas</a></li>
-                      <li><a href="../catalogo/adheplast.php">Adheplast</a></li>
+                      <li><a href="../catalogo/adheplast.php">AdhepLast</a></li>
                       <li><a href="../catalogo/sika.php">Sika</a></li>
                       
                     </ul>
@@ -189,15 +189,11 @@
                       
                     </div>
                     <div class="card-footer-a">
-                    <ul class="card-info d-flex justify-content-around">
-                        <li>
-                          <h4 class="card-info-title">Descripción</h4>
-                          <span>
-                            Producto 1, categoria 1, pintura de ..........
-                          </span>
-                        </li>
-                        
-                      </ul>
+                    <div class="descripcion">
+                    <h4 class="card-info-title">Descripción</h4>
+                          Pintura Arquitectónica tipo vinil-acrílica diseñada para la protección 
+                          y decoración de superficies de fibrocement, tanto exterior como interior.<br>
+                    </div> 
                     </div>
                   </div>
                 </div>
@@ -219,6 +215,7 @@
                     </div>
                     <div class="card-footer-a">
                     <div class="descripcion">
+                    <h4 class="card-info-title">Descripción</h4>
                           Pintura Arquitectónica tipo vinil-acrílica diseñada para la protección 
                           y decoración de superficies de fibrocement, tanto exterior como interior.<br>
                     </div> 
@@ -244,14 +241,11 @@
                       
                     </div>
                     <div class="card-footer-a">
-                      <ul class="card-info d-flex justify-content-around">
-                      <li>
-                          <h4 class="card-info-title">Descripción</h4>
-                          <span>
-                            Producto 1, categoria 1, pintura de ..........
-                          </span>
-                        </li>
-                      </ul>
+                    <div class="descripcion">
+                    <h4 class="card-info-title">Descripción</h4>
+                          Pintura Arquitectónica tipo vinil-acrílica diseñada para la protección 
+                          y decoración de superficies de fibrocement, tanto exterior como interior.<br>
+                    </div> 
                     </div>
                   </div>
                 </div>
@@ -274,13 +268,10 @@
                     </div>
                     <div class="card-footer-a">
                     <div class="descripcion">
-                    Recubrimiento de superficies metálicas, madera y mampostería 
-                          en interiores y/o exteriores 
-                    </div>
-                   
-                         
-                      
-                        
+                    <h4 class="card-info-title">Descripción</h4>
+                          Pintura Arquitectónica tipo vinil-acrílica diseñada para la protección 
+                          y decoración de superficies de fibrocement, tanto exterior como interior.<br>
+                    </div> 
                     </div>
                   </div>
                 </div>
