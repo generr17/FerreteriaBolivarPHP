@@ -169,7 +169,7 @@
     <section class="property-grid grid">
     <div class="section-title">
         <h2>Cóndor</h2>
-        <p>Observa nuestros productos </p>
+        
       </div>
         <div class="container">
           <div class="row">
@@ -181,11 +181,7 @@
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
-                    <div class="card-header-a">
-                      <h2 class="card-title-a">
-                        <a href="#"></a>
-                      </h2>
-                    </div>
+                    
                     <div class="card-body-a">
                       <div class="price-box d-flex">
                         <span class="price-a">Permalatex</span>
@@ -195,7 +191,10 @@
                     <div class="card-footer-a">
                     <div class="descripcion">
                     <h4 class="card-info-title">Descripción</h4>
-                       Pintura de tipo elastomérico plastificada de alta calidad. Ideal para ser utilizada en exteriores.
+                    <br>
+                       Pintura de tipo elastomérico plastificada de alta calidad. 
+                       Ideal para ser utilizada en exteriores.
+                    <br>
                     </div> 
                     </div>
                   </div>
@@ -209,11 +208,7 @@
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
-                    <div class="card-header-a">
-                      <h2 class="card-title-a">
-                        <a href="#"></a>
-                      </h2>
-                    </div>
+                    
                     <div class="card-body-a">
                       <div class="price-box d-flex">
                         <span class="price-a">Eternacril</span>
@@ -223,8 +218,10 @@
                     <div class="card-footer-a">
                     <div class="descripcion">
                     <h4 class="card-info-title">Descripción</h4>
+                    <br>
                           Pintura Arquitectónica tipo vinil-acrílica diseñada para la protección 
                           y decoración de superficies de fibrocement, tanto exterior como interior.
+                    <br> 
                     </div> 
                     </div>
                   </div>
@@ -239,11 +236,7 @@
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
-                    <div class="card-header-a">
-                      <h2 class="card-title-a">
-                        <a href="#"></a>
-                      </h2>
-                    </div>
+                    
                     <div class="card-body-a">
                       <div class="price-box d-flex">
                         <span class="price-a">Super Corona</span>
@@ -253,8 +246,10 @@
                     <div class="card-footer-a">
                     <div class="descripcion">
                     <h4 class="card-info-title">Descripción</h4>
+                    <br>
                     Pintura arquitectónica tipo vinil-acrílica, diseñada para proteger 
                     y decorar los acabados tanto interiores como exteriores.
+                    <br>
                     </div> 
                     </div>
                   </div>
@@ -268,11 +263,7 @@
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
-                    <div class="card-header-a">
-                      <h2 class="card-title-a">
-                        <a href="#"></a>
-                      </h2>
-                    </div>
+                    ¿
                     <div class="card-body-a">
                       <div class="price-box d-flex">
                         <span class="price-a">Pin 3</span>
@@ -296,11 +287,7 @@
                   </div>
                   <div class="card-overlay">
                     <div class="card-overlay-a-content">
-                      <div class="card-header-a">
-                        <h2 class="card-title-a">
-                          <a href="#"></a>
-                        </h2>
-                      </div>
+                      
                       <div class="card-body-a">
                         <div class="price-box d-flex" >
                         
@@ -311,8 +298,10 @@
                       <div class="card-footer-a">
                       <div class="descripcion">
                       <h4 class="card-info-title">Descripción</h4>
+                      <br>
                       Látex vinil acrílico diseñado especialmente para la fabricación
                        de pinturas tanto de exteriores como para interiores.
+                       <br>
                       </div>
                       </div>
                     </div>
@@ -327,11 +316,7 @@
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
-                    <div class="card-header-a">
-                      <h2 class="card-title-a">
-                        <a href="#"></a>
-                      </h2>
-                    </div>
+                    
                     <div class="card-body-a">
                       <div class="price-box d-flex">
                         <span class="price-a">TAN</span>
@@ -341,7 +326,11 @@
                     <div class="card-footer-a">
                     <div class="descripcion">
                     <h4 class="card-info-title">Descripción</h4>
-                    Recubrimiento protector para atmósferas exteriores por su excelente comportamiento en exposición ambiental.
+                    <br>
+                    
+                    Recubrimiento protector para atmósferas exteriores por su excelente
+                     comportamiento en exposición ambiental.
+                     <br>
                     </div>
                      
                     </div>

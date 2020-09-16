@@ -194,9 +194,10 @@
                     <div class="card-footer-a">
                     <div class="descripcion">
                     <h4 class="card-info-title">Descripción</h4>
-                    Monotop Empaste Interior es una excelente base para
-                    pinturas para un acabado estetico y decorativo de un
-                    solo componente
+                    <br>
+                    Empaste para Interiores es una base acrílica para pinturas, dando como
+                    resultado un excelente acabado estético y decorativo.
+                    <br>
 
                     </div> 
                     </div>
@@ -225,8 +226,10 @@
                     <div class="card-footer-a">
                     <div class="descripcion">
                     <h4 class="card-info-title">Descripción</h4>
-                          Pintura Arquitectónica tipo vinil-acrílica diseñada para la protección 
-                          y decoración de superficies de fibrocement, tanto exterior como interior.<br>
+                  <br>
+                  Base acrílica e impermeable de alta calidad para pinturas 
+                  en paredes interiores y especialmente en exteriores.
+                  <br>
                     </div> 
                     </div>
                   </div>
@@ -255,8 +258,12 @@
                     <div class="card-footer-a">
                     <div class="descripcion">
                     <h4 class="card-info-title">Descripción</h4>
-                          Pintura Arquitectónica tipo vinil-acrílica diseñada para la protección 
-                          y decoración de superficies de fibrocement, tanto exterior como interior.<br>
+                         <br> 
+                          Impermeabilizante Acrílico Elástico para cubiertas, 
+                          techos y terrazas transitables, planas e inclinadas. 
+                          Emulsión con base en resinas acrílicas estirenadas de aplicación en frío.
+                          <br>
+                          
                     </div> 
                     </div>
                   </div>
