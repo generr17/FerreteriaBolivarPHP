@@ -1385,6 +1385,11 @@ section {
 /*--------------------------------------------------------------
 # Counts
 --------------------------------------------------------------*/
+.counts {
+  background-size: cover;
+  padding: 80px 0 60px 0;
+  position: relative;
+}
 
 .counts::before {
   content: "";
