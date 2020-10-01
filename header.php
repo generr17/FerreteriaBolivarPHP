@@ -34,15 +34,15 @@
               
               <li class="drop-down"><a>Herramientas manuales</a>
                 <ul>
-                  <li><a href="https://ferreteriasbolivar.com/catalogo/century">Century</a></li>
-                  <li><a href="https://ferreteriasbolivar.com/catalogo/ingco">Ingco</a></li>
-                  <li><a href="https://ferreteriasbolivar.com/catalogo/stanley">Stanley</a></li>
+                  <li><a href="https://ferreteriasbolivar.com/catalogo/herramientas-manuales#century">Century</a></li>
+                  <li><a href="https://ferreteriasbolivar.com/catalogo/herramientas-manuales#ingco">Ingco</a></li>
+                  <li><a href="https://ferreteriasbolivar.com/catalogo/herramientas-manuales#stanley">Stanley</a></li>
                 </ul>
               </li>
                <li class="drop-down"><a>Hogar</a>
                 <ul>
-                  <li><a href="https://ferreteriasbolivar.com/catalogo/cocinas">Cocinas</a></li>
-                  <li><a href="https://ferreteriasbolivar.com/catalogo/refrigeradores">Refrigeradores</a></li>
+                  <li><a href="https://ferreteriasbolivar.com/catalogo/hogar#cocinas">Cocinas</a></li>
+                  <li><a href="https://ferreteriasbolivar.com/catalogo/hogar#refrigeradores">Refrigeradores</a></li>
                   <li><a href="#">Producto 3</a></li>
                   <li><a href="#">Producto 4</a></li>
                   <li><a href="#">Producto 5</a></li>
