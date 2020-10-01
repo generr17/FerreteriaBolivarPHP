@@ -7,7 +7,7 @@
   <title>Puntos de Venta | Ferreterías Bolívar</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
-  <link href="assets/img/ferreteria/favicon.jpg" rel="icon">
+  <link href="https://ferreteriasbolivar.com/assets/img/ferreteria/favicon.jpg" rel="icon">
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
@@ -46,7 +46,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="pic">
-                <a href="#mapa" id="matriz"><img src="assets/img/puntosVenta/img1.jpg" class="img-fluid" alt="" onClick="abrirUbicacion(0)"></a>
+                <a href="#mapa" id="matriz"><img src="https://ferreteriasbolivar.com/assets/img/puntosVenta/img1.jpg" class="img-fluid" alt="" onClick="abrirUbicacion(0)"></a>
               </div>
               <div class="member-info">
                 <h4>Matriz</h4>
@@ -57,7 +57,7 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div class="member">
               <div class="pic">
-                <a href="#mapa" id="sucursal1"><img src="assets/img/puntosVenta/img2.jpg" class="img-fluid" alt="" onClick="abrirUbicacion(1)"></a>
+                <a href="#mapa" id="sucursal1"><img src="https://ferreteriasbolivar.com/assets/img/puntosVenta/img2.jpg" class="img-fluid" alt="" onClick="abrirUbicacion(1)"></a>
               </div>
               <div class="member-info">
                 <h4>Sucursal 1</h4>
@@ -67,7 +67,7 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
               <div class="member">
                 <div class="pic">
-                  <a href="#mapa" id="sucursal2"><img src="assets/img/puntosVenta/img3.jpg" class="img-fluid" alt="" onClick="abrirUbicacion(2)"></a>
+                  <a href="#mapa" id="sucursal2"><img src="https://ferreteriasbolivar.com/assets/img/puntosVenta/img3.jpg" class="img-fluid" alt="" onClick="abrirUbicacion(2)"></a>
                 </div>
                 <div class="member-info">
                   <h4>Sucursal 2</h4>

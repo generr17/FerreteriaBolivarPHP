@@ -185,7 +185,7 @@
               </li>
             </ul>
         </li>
-          <li><a href="https://ferreteriasbolivar.com/puntosVenta">Puntos de venta</a></li>
+          <li><a href="https://ferreteriasbolivar.com/puntos-de-Venta">Puntos de venta</a></li>
           <li><a href="https://ferreteriasbolivar.com/contactanos">Contáctanos</a></li>
         </ul>
       </nav>
