@@ -12,7 +12,7 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
       <div class="logo mr-auto">
-        <a href="inicio"><img src="https://ferreteriasbolivar.com/assets/img/ferreteria/logo.jpg" alt="" class="img-fluid"></a>
+        <a href="https://ferreteriasbolivar.com/inicio"><img src="https://ferreteriasbolivar.com/assets/img/ferreteria/logo.jpg" alt="" class="img-fluid"></a>
       </div>
       <nav class="nav-menu d-none d-lg-block">
         <ul>
