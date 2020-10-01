@@ -1,9 +1,3 @@
-/**
-* Template Name: Kelly - v2.0.0
-* Template URL: https://bootstrapmade.com/kelly-free-bootstrap-cv-resume-html-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 !(function($) {
   "use strict";
 
@@ -91,7 +85,21 @@
   } else if ($(".mobile-nav, .mobile-nav-toggle").length) {
     $(".mobile-nav, .mobile-nav-toggle").hide();
   }
+  // Toggle .header-scrolled class to #header when page is scrolled
+  $(window).scroll(function() {
+    if ($(this).scrollTop() > 100) {
+      $('#header').addClass('header-scrolled');
+      $('#topbar').addClass('topbar-scrolled');
+    } else {
+      $('#header').removeClass('header-scrolled');
+      $('#topbar').removeClass('topbar-scrolled');
+    }
+  });
 
+  if ($(window).scrollTop() > 100) {
+    $('#header').addClass('header-scrolled');
+    $('#topbar').addClass('topbar-scrolled');
+  }
   // Back to top button
   $(window).scroll(function() {
     if ($(this).scrollTop() > 100) {
@@ -128,7 +136,17 @@
     autoplay: true,
     dots: true,
     loop: true,
-    items: 1
+    responsive: {
+      0: {
+        items: 1
+      },
+      768: {
+        items: 2
+      },
+      900: {
+        items: 3
+      }
+    }
   });
 
   // Porfolio isotope and filter

@@ -4,9 +4,9 @@ const options = {
     center : [-1.2495394,-78.6253654],
     zoom : 13,
     minZoom: 13,
-    maxZoom: 16.5,
-    dragging: false,
-    zoomControl: false
+    maxZoom: 16.5
+    //dragging: false,
+    //zoomControl: false
 }
 //---------------------------------------
 //Instanciamos el mapa
@@ -17,11 +17,11 @@ attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStree
 //--------------------
 //Propiedades del mapa
 map.addLayer(tileLayer);
-map.touchZoom.disable();
-map.doubleClickZoom.disable();
-map.scrollWheelZoom.disable();
-map.boxZoom.disable();
-map.keyboard.disable();
+//map.touchZoom.disable();
+//map.doubleClickZoom.disable();
+//map.scrollWheelZoom.disable();
+//map.boxZoom.disable();
+//map.keyboard.disable();
 //-------------------------
 
 //Coordenadas y titulos para marcadores de mapa

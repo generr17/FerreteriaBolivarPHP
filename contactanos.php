@@ -1,63 +1,43 @@
+<?php ob_start('comprimir_pagina'); ?> 
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
-  <title>| Ferreterías Bolívar</title>
+  <title>Contáctanos | Ferreterías Bolívar</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
-
-  <!-- Favicons -->
-  <link href="assets/img/ferreteria/logo redondo 2.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
-  <!-- Google Fonts -->
+  <link href="https://ferreteriasbolivar.com/assets/img/ferreteria/favicon.jpg" rel="icon">
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
-
-  <!-- Vendor CSS Files -->
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
   <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
   <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
   <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-
-  <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
-
 </head>
-
 <body>
-  <!--header-->
 <?php include('header.php'); ?>
-  <!--endheader-->
-
   <main id="main">
     <div class="fondoa">
-    <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
       <div class="container" data-aos="fade-up">
-
         <div class="section-title">
           <h2>Contáctanos</h2>
-          <p>Si tienes alguna pregunta, no dudes en decírnosla estaremos felices en responderte!</p>
+          <p>Si tienes alguna duda o pregunta, escríbenos y te responderemos lo mas pronto posible</p>
         </div>
-
-
           <div class="row mt-5">
-
             <div class="col-lg-4">
               <div class="info">
                 <div class="address">
-                  <a href="puntosVenta.html#nuestrosLocales"><i class="icofont-google-map" style="background-color: #20449B;color: white;"></i></a>
+                  <a href="puntosVenta#nuestrosLocales"><i class="icofont-google-map" style="background-color: #20449B;color: white;"></i></a>
                   <h4>Nuestros locales:</h4>
                   <br/>
                   <p><b>Matriz:</b></p>
                   <br/>
                   <p style="text-align: justify;">Av. Los Chasquis 13-28 y Manco Capac</p>
-                  <p>Teléfono trabajo: 032846813</p>
+                  <p>Teléfono de trabajo: 032846813</p>
                   <p>Celulares: 0998371958 / 0988228466</p>
                   <br/>
                   <p><b>Sucursal 1:</b></p>
@@ -68,39 +48,34 @@
                   <p><b>Sucursal 2:</b></p>
                   <br/>
                   <p style="text-align: justify;">Av. Los Capulíes y Av Rodrigo Pachano</p>
-                  <p>Teléfono trabajo: 032856464</p>
+                  <p>Teléfono de trabajo: 032856464</p>
                   <p>Celular: 0999622158</p>
                 </div>
-  
                 <div class="email">
                   <i class="icofont-envelope" style="background-color: #20449B;color: white;"></i>
                   <h4>Email principal:</h4>
-                  <p>contaferrbolivar@outlook.com</p>
+                  <p>ventas@grupoferreterobolivar.com</p>
                 </div>
-  
               </div>
-  
             </div>
-  
             <div class="col-lg-8 mt-5 mt-lg-0">
-  
               <form action="forms/contact.php" method="post" role="form" class="php-email-form">
                 <div class="form-row">
                   <div class="col-md-6 form-group">
-                    <input type="text" name="nombre" class="form-control" id="nombre" placeholder="Ingresa nombre" data-rule="minlen:4" data-msg="Por favor ingresa un nombre de al menos 4 carácteres" />
+                    <input type="text" name="nombre" class="form-control" id="nombre" placeholder="Ingresa tu nombre" data-rule="minlen:3" data-msg="Por favor ingresa un nombre de al menos 3 carácteres" />
                     <div class="validate"></div>
                   </div>
                   <div class="col-md-6 form-group">
-                    <input type="text" class="form-control" name="telefono" id="telefono" placeholder="Ingresa teléfono" data-rule="minlen:10" data-msg="Ingresa un teléfono válido"  onKeypress="if (event.keyCode < 45 || event.keyCode > 57) event.returnValue = false;"/> 
+                    <input type="text" class="form-control" name="telefono" id="telefono" placeholder="Ingresa tu teléfono" data-rule="minlen:9" data-msg="Ingresa un teléfono válido"  onKeypress="if (event.keyCode < 45 || event.keyCode > 57) event.returnValue = false;"/> 
                     <div class="validate"></div>
                   </div>
                 </div>
                 <div class="form-group">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Ingresa email" data-rule="email" data-msg="Por favor ingresa un email válido" />
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Ingresa tu email" data-rule="email" data-msg="Por favor ingresa un email válido" />
                   <div class="validate"></div>
                 </div>
                 <div class="form-group">
-                  <input type="text" class="form-control" name="asunto" id="asunto" placeholder="Ingresa asunto" data-rule="minlen:4" data-msg="Por favor ingresa un asunto mayor a 8 carácteres" />
+                  <input type="text" class="form-control" name="asunto" id="asunto" placeholder="Ingresa un asunto" data-rule="minlen:4" data-msg="Por favor ingresa un asunto mayor a 4 carácteres" />
                   <div class="validate"></div>
                 </div>
                 <div class="form-group">
@@ -109,28 +84,19 @@
                 </div>
                 <div class="mb-3">
                   <div class="loading">Cargando</div>
-                  <div class="error-message">No se ha podido enviar el mensaje correctamente, por favor contacta con el administrador.</div>
+                  <div class="error-message">No se ha podido enviar el mensaje correctamente, por favor inténtalo nuevamente mas tarde.</div>
                     <div class="sent-message">Tu mensaje ha sido enviado, gracias!</div>
                   </div>
                 <div class="text-center"><button type="submit" class="btnEnviar" style="background-color: #1976CB;color: white;">Enviar mensaje</button></div>
               </form>
-  
-
         </div>
-
       </div>
-    </section><!-- End Contact Section -->
+    </section>
     </div>
-  </main><!-- End #main -->
-
-  <!-- ======= Footer ======= -->
+  </main>
   <?php include('footer.php'); ?>
-  <!-- End  Footer -->
-
   <div id="preloader"></div>
   <a href="#" class="back-to-top"><i class="bx bx-up-arrow-alt"></i></a>
-
-  <!-- Vendor JS Files -->
   <script src="assets/vendor/jquery/jquery.min.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
@@ -141,10 +107,14 @@
   <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
   <script src="assets/vendor/venobox/venobox.min.js"></script>
   <script src="assets/vendor/aos/aos.js"></script>
-
-  <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
-
 </body>
-
 </html>
+<?php
+ob_end_flush(); 
+function comprimir_pagina($buffer) { 
+    $busca = array('/\>[^\S ]+/s','/[^\S ]+\</s','/(\s)+/s'); 
+    $reemplaza = array('>','<','\\1'); 
+    return preg_replace($busca, $reemplaza, $buffer); 
+} 
+?>

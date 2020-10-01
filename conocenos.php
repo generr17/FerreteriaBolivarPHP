@@ -1,3 +1,4 @@
+<?php ob_start('comprimir_pagina'); ?> 
 <!DOCTYPE html>
 <html lang="en">
 
@@ -10,8 +11,8 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/ferreteria/logo redondo 2.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="https://ferreteriasbolivar.com/assets/img/ferreteria/favicon.jpg" rel="icon">
+ 
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -35,156 +36,167 @@
   <!--endheader-->
   <main id="main">
     <div class="fondoa">
-    
-    <div class="section-title">
-        <br>
+    <section class="nuestraHistoria">
+        <div class="section-title">
+          <h2>Nuestra historia</h2>
     </div>
         
         <div id="contenedorP" data-aos="fade-up">
 	        <div id="contenedorS"></div>
         </div> 
 
-<div class="process-wrapper">
-	<div id="progress-bar-container" data-aos="fade-up">
-		
-		<ul>
-			<li class="step step01 active"><div class="step-inner">1980</div></li>
-			<li class="step step02"><div class="step-inner">1990</div></li>
-			<li class="step step03"><div class="step-inner">2000</div></li>
-			<li class="step step04"><div class="step-inner">2010</div></li>
-			<li class="step step05"><div class="step-inner">2020</div></li>
-		</ul>
-		
-		<div id="line">
-			<div id="line-progress"></div>
-		</div>
-	</div>
-</div>
+  <div class="process-wrapper">
+    <div id="progress-bar-container" data-aos="fade-up">
+      
+      <ul>
+        <li class="step step01 active"><div class="step-inner">1997</div></li>
+        <li class="step step02"><div class="step-inner">1998-2005</div></li>
+        <li class="step step03"><div class="step-inner">2005-2013</div></li>
+        <li class="step step04"><div class="step-inner">2015-2017</div></li>
+        <li class="step step05"><div class="step-inner">2020</div></li>
+      </ul>
+      
+      <div id="line">
+        <div id="line-progress"></div>
+      </div>
+    </div>
+  </div>
 
 
-<div id="progress-content-section" data-aos="fade-up">
-	<div class="section-content discovery active">
-		<h2>1980</h2>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec neque justo, consequat non fermentum ac, tempor eu turpis. Proin nulla eros, placerat non ipsum ut, dapibus ullamcorper ex. Nulla in dapibus lorem. Suspendisse vitae velit ac ante consequat placerat ut sed eros. Nullam porttitor mattis mi, id fringilla ex consequat eu. Praesent pulvinar tincidunt leo et condimentum. Maecenas volutpat turpis at felis egestas malesuada. Phasellus sem odio, venenatis at ex a, lacinia suscipit orci.</p>
-	</div>
-	
-	<div class="section-content strategy">
-		<h2>1990</h2>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec neque justo, consequat non fermentum ac, tempor eu turpis. Proin nulla eros, placerat non ipsum ut, dapibus ullamcorper ex. Nulla in dapibus lorem. Suspendisse vitae velit ac ante consequat placerat ut sed eros. Nullam porttitor mattis mi, id fringilla ex consequat eu. Praesent pulvinar tincidunt leo et condimentum. Maecenas volutpat turpis at felis egestas malesuada. Phasellus sem odio, venenatis at ex a, lacinia suscipit orci.</p>
-	</div>
-	
-	<div class="section-content creative">
-		<h2>2000</h2>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec neque justo, consequat non fermentum ac, tempor eu turpis. Proin nulla eros, placerat non ipsum ut, dapibus ullamcorper ex. Nulla in dapibus lorem. Suspendisse vitae velit ac ante consequat placerat ut sed eros. Nullam porttitor mattis mi, id fringilla ex consequat eu. Praesent pulvinar tincidunt leo et condimentum. Maecenas volutpat turpis at felis egestas malesuada. Phasellus sem odio, venenatis at ex a, lacinia suscipit orci.</p>
-	</div>
-	
-	<div class="section-content production">
-		<h2>2010</h2>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec neque justo, consequat non fermentum ac, tempor eu turpis. Proin nulla eros, placerat non ipsum ut, dapibus ullamcorper ex. Nulla in dapibus lorem. Suspendisse vitae velit ac ante consequat placerat ut sed eros. Nullam porttitor mattis mi, id fringilla ex consequat eu. Praesent pulvinar tincidunt leo et condimentum. Maecenas volutpat turpis at felis egestas malesuada. Phasellus sem odio, venenatis at ex a, lacinia suscipit orci.</p>
-	</div>
-	
-	<div class="section-content analysis">
-		<h2>2020</h2>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec neque justo, consequat non fermentum ac, tempor eu turpis. Proin nulla eros, placerat non ipsum ut, dapibus ullamcorper ex. Nulla in dapibus lorem. Suspendisse vitae velit ac ante consequat placerat ut sed eros. Nullam porttitor mattis mi, id fringilla ex consequat eu. Praesent pulvinar tincidunt leo et condimentum. Maecenas volutpat turpis at felis egestas malesuada. Phasellus sem odio, venenatis at ex a, lacinia suscipit orci.</p>
-	</div>
-</div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
-   <!-- ======= About Section ======= -->
-   <section id="about" class="about">
-      <div class="container" data-aos="fade-up">
-        <br><br>
+  <div id="progress-content-section" data-aos="fade-up">
+    <div class="section-content discovery active">
+      <h2>1997</h2>
+      <p>Ferreteria y Pinturas Bolivar fundada por Julia Otorongo, nace en 1997 en la Av.Los Chasquis y Manco Capac de la ciudad de Ambato, como una pequeña ferreteria que atendia a vecinos y amigos.  </p>
+    </div>
+    
+    <div class="section-content strategy">
+      <h2>1998-2005 <br> Crecimiento</h2>
+      <p>La empresa continua creciendo gradualmente dando soluciones efectivas a nuevos clientes y surge la necesidad de ampliar el stock de productos, y adaptarse a las tendencias del mercado ferretero en diferentes marcas.</p>
+    </div>
+    
+    <div class="section-content creative">
+      <h2>2005 <br> Expansión</h2>
+      <p>La empresa abre su primera sucursal en el sector de HUACHI CHICO para antender directamente al sector carrocero de la provincia. Se incorpora un laboratorio movil de pintura para mejor servicio a nuestros clientes.</p>
+        <h2>2009-2013</h2>
+      <p>Se  construye el Edificio matriz, el cual alberga nuevas líneas tales como acabados, madera, contruccion, electrico etc.  La empresa se propone ser conocida en el mercado bajo el lema “Todo en un solo lugar”.</p>
+    </div>
+    
+    <div class="section-content production">
+      <h2>2015</h2>
+      <p>Debido a la fidelidad de los clientes de los diferentes cantones de la provincia, se decide implementar una nueva sucursal en el sector de Izamba. </p> <br>
+      <h2>2017</h2>
+      <p>Se crea la empresa “Madercentro Bolivar” misma que centra en la linea de la madera, herrajes, etc; y complementa la visión de completitud de marcas y servicios de la empresa.</p>
+      
+    </div>
+    
+    <div class="section-content analysis">
+      <h2>2020</h2>
+      <p>Actualmente la empresa cuenta con mas de 50 colaboradores que dia a dia se esfuerzan por servir a sus clientes y convertise en un referente de profesionalismo y servicio.</p>
+    </div>
+  </div>
+    
+   
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services">
+      <div class="container">
+
         <div class="row">
-          <div class="col-lg-4">
-            <img src="assets/img/conocenos.png" class="img-fluid" alt="">
-          </div>
-          <div class="col-lg-8 pt-4 pt-lg-0 content">
-              <br>
-            <div class="row">
-              <div class="col-lg-6">
-                <ul>
-                  <li><i class="icofont-rounded-right"></i> <strong>Misión:</strong>  <p align="justify">Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-              Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.</p></li>
-                </ul>
-              </div>
-              <div class="col-lg-6">
-                <ul>
-                  <li><i class="icofont-rounded-right"></i> <strong>Visión:</strong> <p align="justify">Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-              Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.</p></li></li>
-                </ul>
-              </div>
+          <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-right">
+           
+            <div class="card">
+              <div class="card-body">
+                <div class="titleVM">
+                  <h5 class="card-title"><a>Nuestra Misión</a></h5>
+                </div>  
+                <div class="texto">
+                  <p class="card-text" align="justify">Satisfacer necesidades, deseos y espectativas de nuestros clientes al brindar una gran diversidad de productos para la contruccion, la industria y el hogar, bajo las premisas de precio, calidad y servicio.</p>
+                </div>
+                </div>
             </div>
           </div>
+          <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-left">
+            <div class="card">
+              <div class="card-body">
+                <div class="titleVM">
+                  <h5 class="card-title"><a>Nuestra Visión</a></h5>
+                </div>
+                <div class="texto">
+                  <p class="card-text" align="justify">Ser una empresa lider y referente en el mercado ecuatoriano, superando las espectativas de nuestros clientes en cuanto a variedad, calidad, precios e innovacion; bajo el lema: “Todo lo que necesitas en un solo lugar”.</p>
+                </div>
+              </div>
+            </div>
+
+          </div>
+          
         </div>
 
       </div>
+    </section><!-- End Services Section -->
 
-    </section><!-- End About Section -->
-
-     <!-- ======= Testimonials Section ======= -->
+         <!-- ======= Testimonials Section ======= -->
     <section id="testimonials" class="testimonials">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
           <h2>Testimonios</h2>
-          <p>Presentamos los testimonios de nuestros clientes y proveedores</p>
+          <p>A continuación mostramos algunos de nuestros clientes y empleados satisfechos con nuestra empresa.</p>
         </div>
 
         <div class="owl-carousel testimonials-carousel">
 
           <div class="testimonial-item">
-            <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-            <h3>Persona 1</h3>
-            <h4>Cliente</h4>
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Poner el testimonio de un cliente
+              Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
+            <img src="https://ferreteriasbolivar.com/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+            <h3>Saul Goodman</h3>
+            <h4>Ceo &amp; Founder</h4>
           </div>
 
           <div class="testimonial-item">
-            <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-            <h3>Empleado 1</h3>
-            <h4>Empleado</h4>
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Poner el testimonio de un empleado
+              Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
+            <img src="asshttps://ferreteriasbolivar.com/ets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+            <h3>Sara Wilsson</h3>
+            <h4>Designer</h4>
           </div>
 
           <div class="testimonial-item">
-            <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-            <h3>Cliente 2</h3>
-            <h4>Cliente</h4>
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Poner el testimonio de un cliente
+              Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
+            <img src="https://ferreteriasbolivar.com/assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+            <h3>Jena Karlis</h3>
+            <h4>Store Owner</h4>
           </div>
 
           <div class="testimonial-item">
-            <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-            <h3>Empleado 2</h3>
-            <h4>Empleado</h4>
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Poner el testimonio de un empleado
+              Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
+            <img src="https://ferreteriasbolivar.com/assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+            <h3>Matt Brandon</h3>
+            <h4>Freelancer</h4>
           </div>
 
           <div class="testimonial-item">
-            <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-            <h3>Cliente 3</h3>
-            <h4>Cliente</h4>
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Poner el testimonio de un cliente
+              Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
+            <img src="https://ferreteriasbolivar.com/assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+            <h3>John Larson</h3>
+            <h4>Entrepreneur</h4>
           </div>
 
         </div>
@@ -206,46 +218,38 @@
           <div class="col-lg-6">
 
             <div class="progress">
-              <span class="skill">Trabajo en equipo <i class="val">100%</i></span>
+              <span class="skill">Eficiencia <i class="val">100%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">Resolver problemas <i class="val">100%</i></span>
+              <span class="skill">Innovación<i class="val">100%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
-            <div class="progress">
-              <span class="skill">Tomar decisiones <i class="val">100%</i></span>
+             <div class="progress">
+              <span class="skill">Calidad <i class="val">100%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
-
-          </div>
+           </div>
 
           <div class="col-lg-6">
 
             <div class="progress">
-              <span class="skill">Adaptación al cambio <i class="val">100%</i></span>
+              <span class="skill">Ética <i class="val">100%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">Comunicación <i class="val">100%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">Empatía <i class="val">100%</i></span>
+              <span class="skill">Vocación de servicio <i class="val">100%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
@@ -265,18 +269,24 @@
       
         <div class="text-center title">
           <h3>Nuestros logros</h3>
-          <p>Nuestra empresa cuenta con:</p>
+          <p>Nuestra empresa cuenta con:
+          </p>
         </div>
 
         <div class="row counters">
+            
+          <div class="col-lg-3 col-6 text-center">
+            <span data-toggle="counter-up">23</span>
+            <p>Años en el mercado</p>
+          </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-toggle="counter-up">999</span>
+            <span data-toggle="counter-up">130.000</span>
             <p>Clientes</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-toggle="counter-up">100</span>
+            <span data-toggle="counter-up">52</span>
             <p>Empleados</p>
           </div>
 
@@ -324,3 +334,11 @@
 </body>
 
 </html>
+<?php
+ob_end_flush(); 
+function comprimir_pagina($buffer) { 
+    $busca = array('/\>[^\S ]+/s','/[^\S ]+\</s','/(\s)+/s'); 
+    $reemplaza = array('>','<','\\1'); 
+    return preg_replace($busca, $reemplaza, $buffer); 
+} 
+?>
