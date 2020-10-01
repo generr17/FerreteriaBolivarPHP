@@ -16,8 +16,8 @@
       </div>
       <nav class="nav-menu d-none d-lg-block">
         <ul>
-          <li><a href="inicio">Inicio</a></li>
-          <li><a href="conocenos">Conócenos</a></li>
+          <li><a href="https://ferreteriasbolivar.com/inicio">Inicio</a></li>
+          <li><a href="https://ferreteriasbolivar.com/conocenos">Conócenos</a></li>
           <li class="drop-down"><a>Catálogo</a>
             <ul>
              <li class="drop-down"><a>Acabados</a>
@@ -185,8 +185,8 @@
               </li>
             </ul>
         </li>
-          <li><a href="puntosVenta">Puntos de venta</a></li>
-          <li><a href="contactanos">Contáctanos</a></li>
+          <li><a href="https://ferreteriasbolivar.com/puntosVenta">Puntos de venta</a></li>
+          <li><a href="https://ferreteriasbolivar.com/contactanos">Contáctanos</a></li>
         </ul>
       </nav>
       <div class="header-social-links">
